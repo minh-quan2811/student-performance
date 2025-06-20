@@ -1,0 +1,1 @@
+A data-driven system that analyzes student performance and recommends personalized learning content using machine learning. It predicts performance levels, identifies areas for improvement, and suggests suitable coding courses based on similarity and relevance to each student's learning profile.
