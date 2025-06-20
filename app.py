@@ -15,7 +15,7 @@ from utils import build_student_profile_text, gpa_to_scale
 app = FastAPI()
 
 # Google Gemini configuration
-GOOGLE_API_KEY = "AIzaSyAzEji464bqIPydWj1m18rLzJwIhhjwtRs"
+GOOGLE_API_KEY = "your_api_genai"
 genai.configure(api_key=GOOGLE_API_KEY)
 model_gen = genai.GenerativeModel("gemini-1.5-flash")
 
