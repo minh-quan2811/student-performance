@@ -1,0 +1,950 @@
+,university,course,type,review,votes,students,difficulty
+0,University of Michigan,Python for Everybody,SPECIALIZATION,4.8,225236,2400000,Beginner
+1,Google,Python Foundations: Start Coding Today,PROFESSIONAL CERTIFICATE,4.7,21768,410000,Beginner
+2,University of Michigan,Python Basics Bootcamp,SPECIALIZATION,4.7,15904,290000,Beginner
+3,University of Michigan,Applied Data Science with Python,SPECIALIZATION,4.5,29358,730000,Intermediate
+4,Università di Napoli Federico II,Data Science con Python e R,SPECIALIZATION,,,,Intermediate
+5,Google,Crash Course on Python,COURSE,4.8,17595,350000,Beginner
+6,IBM,Python for Absolute Beginners,PROFESSIONAL CERTIFICATE,4.6,74747,830000,Beginner
+7,University of Michigan,Programming for Everybody (Getting Started with Python),COURSE,4.8,189604,2200000,Mixed
+8,IBM,First Steps in Python Programming,SPECIALIZATION,4.6,37454,450000,Beginner
+9,IBM,Python Essentials Beginner�s Guide,PROFESSIONAL CERTIFICATE,4.6,36275,510000,Beginner
+10,IBM,"Python for Data Science, AI & Development",COURSE,4.6,21662,300000,Beginner
+11,University of Pennsylvania,Introduction to Programming with Python and Java,SPECIALIZATION,4,179,11000,Beginner
+12,Moscow Institute of Physics and Technology,Mastering Data Structures & Algorithms,SPECIALIZATION,4.5,1695,71000,Intermediate
+13,University of Michigan,Python Essentials: Beginner�s Guide for Business & Finance,SPECIALIZATION,4.6,2359,92000,Beginner
+14,"University of California, Irvine",Python Starter Course: Code Your Future,SPECIALIZATION,4.5,50,4000,Beginner
+15,Rice University,Introduction to Scripting in Python,SPECIALIZATION,4.7,3460,100000,Beginner
+16,University of California San Diego,Data Structures and Algorithms,SPECIALIZATION,4.6,13335,490000,Intermediate
+17,University of Colorado Boulder,Quantitative Finance with Python,SPECIALIZATION,4.4,8,1600,Advanced
+18,Pontificia Universidad Católica de Chile,Essential Data Structures and Algorithms in Python/Java/C++,COURSE,4.4,2768,170000,Beginner
+19,Codio,Programming in Python: A Hands-on Introduction,SPECIALIZATION,4.7,23,1600,Beginner
+20,University of Michigan,Foundations of Data Structures & Algorithms,COURSE,4.8,12882,250000,Beginner
+21,The Hong Kong University of Science and Technology,Python for Financial Analysis and Algorithmic Trading,COURSE,4.4,2522,93000,Intermediate
+22,DeepLearning.AI,Deep Learning,SPECIALIZATION,4.8,123216,1100000,Intermediate
+23,Coursera Project Network,Introduction to Python,GUIDED PROJECT,4.5,1634,26000,Beginner
+24,Infosec,Python for Cybersecurity,SPECIALIZATION,4.6,16,,Intermediate
+25,University of Michigan,Data Structures & Algorithms: From Basics to Advanced,SPECIALIZATION,4.7,1367,55000,Intermediate
+26,Coursera Project Network,Python for Finance: Investment Fundamentals and Data Analytics,GUIDED PROJECT,4.6,1791,26000,Intermediate
+27,IBM,Kickstart Python: Beginner Edition,PROFESSIONAL CERTIFICATE,4.6,22680,340000,Beginner
+28,HSE University,Python Fundamentals for New Coders,COURSE,4.5,2712,130000,Beginner
+29,Wesleyan University,Python Programming: A Concise Introduction,COURSE,4.7,4265,160000,Beginner
+30,Universidad Austral,Aprende a programar con Python,SPECIALIZATION,4.5,1714,43000,Beginner
+31,IBM,Advanced Data Science with IBM,SPECIALIZATION,4.3,2705,110000,Advanced
+32,University of Pennsylvania,Introduction to Python Programming,COURSE,3.9,129,8100,Beginner
+33,Rice University,Fundamentals of Computing,SPECIALIZATION,4.8,3660,240000,Beginner
+34,EDHEC Business School,Python for Starters: Build Your Skills,SPECIALIZATION,4.6,1227,42000,Beginner
+35,Coursera Project Network,Python for Problem Solvers,GUIDED PROJECT,4.5,377,12000,Intermediate
+36,Coursera Project Network,Exploratory Data Analysis With Python and Pandas,GUIDED PROJECT,4.6,217,5800,Beginner
+37,University of Michigan,Introduction to Data Science in Python,COURSE,4.5,24033,600000,Intermediate
+38,University of Michigan,Applied Python for Financial Modeling,COURSE,4.7,2954,64000,Intermediate
+39,Universidade de São Paulo,Beginner�s Python Playground,COURSE,4.9,5293,160000,Beginner
+40,University of Michigan,Python Data Structures,COURSE,4.9,84054,750000,Mixed
+41,University of Michigan,Python in the Real World,SPECIALIZATION,4.8,139,5000,Intermediate
+42,Universidad de los Andes,Python Coding Crash Course,COURSE,4.9,9,3200,Beginner
+43,University of Toronto,Learn to Program: The Fundamentals,COURSE,4.7,4982,240000,Beginner
+44,Google Cloud,Problem Solving with Data Structures & Algorithms,SPECIALIZATION,4.5,2060,62000,Advanced
+45,Moscow Institute of Physics and Technology,Econometrics with Python,COURSE,4.6,1516,59000,Intermediate
+46,IBM,Python Primer: Your Coding Journey Begins,COURSE,4.7,13319,190000,Beginner
+47,IBM,Python Basics: Unlock Your Potential,SPECIALIZATION,4.7,3203,84000,Beginner
+48,IBM,Working with NumPy and Pandas,PROFESSIONAL CERTIFICATE,4.6,12323,230000,Intermediate
+49,University of Pennsylvania,Financial Time Series and Forecasting in Python,COURSE,4.5,46,2100,Beginner
+50,IBM,Python Project for Data Science,COURSE,4.3,635,18000,Intermediate
+51,University of Michigan,Using Python to Access Web Data,COURSE,4.8,40437,500000,Mixed
+52,IBM,Python Beginner Bootcamp: Code Confidently,COURSE,4.7,13424,190000,Beginner
+53,Google,"Python Intro: Learn, Code, Create",COURSE,4.7,3648,96000,Beginner
+54,Amazon Web Services,Data Cleaning and Preprocessing with Python,COURSE,4.5,480,66000,Intermediate
+55,University of London,Foundations of Data Science: K-Means Clustering in Python,COURSE,4.7,310,17000,Beginner
+56,University of Michigan,Using Databases with Python,COURSE,4.8,19642,370000,Mixed
+57,IBM,Python Programming: The Beginner�s Toolkit,SPECIALIZATION,4.4,31,,Beginner
+58,IBM,Data Visualization with Python,COURSE,4.5,9203,120000,Intermediate
+59,University of Michigan,Python from Scratch: Beginner Friendly,COURSE,4.7,1962,84000,Beginner
+60,EDHEC Business School,Introduction to Portfolio Construction and Analysis with Python,COURSE,4.8,996,35000,Mixed
+61,University of Michigan,Python Programming for Business Applications,COURSE,4.7,11457,190000,Mixed
+62,University of Michigan,"Python Functions, Files, and Dictionaries",COURSE,4.8,4174,73000,Beginner
+63,University of Alberta,Python for Business Decision-Making,COURSE,4.2,104,23000,Beginner
+64,University of Michigan,"Applied Plotting, Charting & Data Representation in Python",COURSE,4.5,5692,150000,Intermediate
+65,Moscow Institute of Physics and Technology,CS101: Introduction to Data Structures and Algorithms,COURSE,4.8,5482,85000,Beginner
+66,Coursera Project Network,Create Your First Chatbot with Rasa and Python,GUIDED PROJECT,4.5,749,16000,Beginner
+67,LearnQuest,Python Scripting for DevOps,SPECIALIZATION,3.9,11,,Beginner
+68,University of Michigan,Data Collection and Processing with Python,COURSE,4.7,3184,54000,Intermediate
+69,University of Michigan,Design Computing: 3D Modeling in Rhinoceros with Python/Rhinoscript,COURSE,5,33,4900,Mixed
+70,Rice University,Python Programming Essentials,COURSE,4.8,2853,68000,Beginner
+71,IBM,Statistics for Data Science with Python,COURSE,4.6,106,5300,Mixed
+72,National Taiwan University,Python Launchpad: Start Your Coding Adventure,COURSE,4.9,522,19000,Beginner
+73,Johns Hopkins University,Python for Genomic Data Science,COURSE,4.3,1301,41000,Mixed
+74,Coursera Project Network,Exploratory Data Analysis in Python,GUIDED PROJECT,4.6,600,14000,Intermediate
+75,University of Michigan,Inferential Statistical Analysis with Python,COURSE,4.6,698,28000,Intermediate
+76,Coursera Project Network,Python for Data Analysis: Pandas & NumPy,GUIDED PROJECT,4.3,15,,Beginner
+77,IBM,Python Project for Data Engineering,COURSE,4.7,33,1500,Intermediate
+78,IBM,Python for Marketing and Sales Analytics,COURSE,4.6,28,2400,Intermediate
+79,Google,Python Programming: The Beginner�s Toolkit,COURSE,4.8,1463,38000,Beginner
+80,EDHEC Business School,Python Programming for Business Applications,COURSE,4.8,376,13000,Intermediate
+81,Moscow Institute of Physics and Technology,Introduction to Python Networking,COURSE,3.9,288,12000,Intermediate
+82,Coursera Project Network,Learn Python with no prior programming experience,GUIDED PROJECT,3.8,41,,Beginner
+83,University of Michigan,"Python Project: pillow, tesseract, and opencv",COURSE,4,1553,47000,Intermediate
+84,Coursera Project Network,Build a Working Chatbot in Python,GUIDED PROJECT,1.7,7,,Intermediate
+85,Nanjing University,Data Processing Using Python,COURSE,4.2,214,43000,Beginner
+86,Moscow Institute of Physics and Technology,Automating Tasks with Python,COURSE,4.1,130,12000,Intermediate
+87,Codio,Python Basics: Selection and Iteration,COURSE,4.8,19,2000,Beginner
+88,Coursera Project Network,Introduction to Reinforcement Learning in Python,GUIDED PROJECT,3.5,51,2500,Intermediate
+89,University of Michigan,Applied Text Mining in Python,COURSE,4.2,3496,110000,Intermediate
+90,Rice University,Python for Operations and Supply Chain Management,COURSE,4.8,3006,190000,Mixed
+91,Coursera Project Network,A Beginners Guide to Python,GUIDED PROJECT,3.3,7,,Beginner
+92,Moscow Institute of Physics and Technology,Python Scripting for System Operations,COURSE,4.5,97,12000,Intermediate
+93,Coursera Project Network,Game Theory with Python,GUIDED PROJECT,4.3,66,6300,Intermediate
+94,University of California San Diego,Python Data Products for Predictive Analytics,SPECIALIZATION,4.2,207,23000,Intermediate
+95,The University of Chicago,Global Warming II: Create Your Own Models in Python,COURSE,4.2,48,11000,Mixed
+96,"University of California, Irvine",The Raspberry Pi Platform and Python Programming for the Raspberry Pi,COURSE,4.7,2546,110000,Mixed
+97,HSE University,Python как иностранный,COURSE,,,2200,Beginner
+98,Coursera Project Network,Python for Financial Engineering,GUIDED PROJECT,3.7,110,5100,Intermediate
+99,Nanjing University,Data Processing Using Python,COURSE,4.7,1407,73000,Mixed
+100,Universidad Austral,A Beginners Guide to Python,COURSE,4.6,1418,35000,Beginner
+101,Rice University,Python Data Analysis,COURSE,4.7,767,30000,Beginner
+102,University of Michigan,Intro to MLOps for Intermediate Users,COURSE,,,,Mixed
+103,Coursera Project Network,Virtual Environments and Dependency Management,GUIDED PROJECT,4.6,62,2900,Intermediate
+104,University of Illinois at Urbana-Champaign,Python for Accounting and Financial Reporting,COURSE,4.1,46,7300,Intermediate
+105,Coursera Project Network,Python Memory Management & Performance,GUIDED PROJECT,4.7,28,,Intermediate
+106,Coursera Project Network,Python for Risk Management and Portfolio Analysis,GUIDED PROJECT,4.7,342,8100,Intermediate
+107,Coursera Project Network,Build a Recommender System in Python,GUIDED PROJECT,2.1,7,,Intermediate
+108,Infosec,Machine Learning for Finance in Python,COURSE,4.6,13,,Intermediate
+109,National Taiwan University,Introduction to Python for Cybersecurity,COURSE,4.6,187,6000,Intermediate
+110,Università di Napoli Federico II,Python: Istruzioni per l’uso,COURSE,,,,Beginner
+111,Rice University,Python Made Fun: Beginner�s Course,COURSE,4.7,1003,20000,Beginner
+112,Coursera Project Network,perform an A/B Test for an ad campaign using python,GUIDED PROJECT,,,,Beginner
+113,Coursera Project Network,Introduction to Python for Business and Finance,GUIDED PROJECT,4.7,341,9500,Intermediate
+114,IBM,Анализ данных с использованием Python,COURSE,,,,Beginner
+115,Coursera Project Network,"Classification Trees in Python, From Start To Finish",GUIDED PROJECT,4.6,215,8800,Intermediate
+116,Coursera Project Network,Create Your First Game with Python,GUIDED PROJECT,4.5,539,12000,Intermediate
+117,Coursera Project Network,Python Basics: Learn to Code Today,GUIDED PROJECT,4.6,67,2800,Beginner
+118,Coursera Project Network,Python Programming for Corporate Finance,GUIDED PROJECT,4.7,68,3100,Intermediate
+119,Coursera Project Network,Python for Data Visualization: Matplotlib & Seaborn,GUIDED PROJECT,4.7,6,,Beginner
+120,Coursera Project Network,Python for Finance: Beta and Capital Asset Pricing Model,GUIDED PROJECT,4.7,10,,Beginner
+121,Coursera Project Network,Financial Data Science with Python,GUIDED PROJECT,4.5,226,6400,Intermediate
+122,Coursera Project Network,Logistic Regression with Python and Numpy,GUIDED PROJECT,4.5,136,5400,Intermediate
+123,Coursera Project Network,Introduction to Customer Segmentation in Python,GUIDED PROJECT,4.7,11,,Beginner
+124,IBM,Python para Data Science y AI,COURSE,4.9,13,,Beginner
+125,Infosec,"Python for Command-and-control, Exfiltration and Impact",COURSE,,,,Intermediate
+126,Coursera Project Network,Create Your First Python Program,GUIDED PROJECT,4.6,1950,24000,Beginner
+127,Coursera Project Network,Predict electricity consumption in Python using Scikit-Learn,GUIDED PROJECT,4.3,23,,Beginner
+128,Coursera Project Network,"Reverse and complement nucleic acid sequences (DNA, RNA) using Python",GUIDED PROJECT,4.5,28,,Beginner
+129,EDHEC Business School,Python and Machine Learning for Asset Management,COURSE,3,250,11000,Intermediate
+130,University of Illinois at Urbana-Champaign,Machine Learning for Accounting with Python,COURSE,4.6,25,5800,Intermediate
+131,LearnQuest,Introduction to Python Scripting for DevOps,COURSE,4,6,,Beginner
+132,Universidad Austral,Programación Orientada a Objetos con Python,COURSE,4,199,12000,Beginner
+133,National Taiwan University,Machine Learning for Edge Devices,COURSE,4.9,115,4600,Mixed
+134,Rice University,An Introduction to Interactive Programming in Python (Part 2),COURSE,4.9,1124,45000,Beginner
+135,Coursera Project Network,Dimensionality Reduction using an Autoencoder in Python,GUIDED PROJECT,4.6,91,3100,Intermediate
+136,Coursera Project Network,Python in Investment Banking,GUIDED PROJECT,4.5,226,6600,Intermediate
+137,Coursera Project Network,Python Basics: Load and Export Data,GUIDED PROJECT,4.4,7,,Beginner
+138,Coursera Project Network,Facebook Network Analysis using Python and Networkx,GUIDED PROJECT,,,,Intermediate
+139,Coursera Project Network,Traffic Sign Classification Using Deep Learning in Python/Keras,GUIDED PROJECT,4.6,340,9900,Intermediate
+140,Coursera Project Network,Use Python Unit Test to Demonstrate TDD,GUIDED PROJECT,,,,Intermediate
+141,Infosec,Python for Active Defense,COURSE,,,,Intermediate
+142,Coursera Project Network,Efficient Coding with Data Structures and Algorithms,GUIDED PROJECT,4.8,130,6000,Intermediate
+143,Coursera Project Network,Linear Regression with NumPy and Python,GUIDED PROJECT,4.4,829,16000,Intermediate
+144,IBM,Python para a Ciência de Dados e IA,COURSE,,,,Beginner
+145,IBM,Análisis de datos con Python,COURSE,4.9,7,,Beginner
+146,IBM,Estadísticas para la Ciencia de Datos con Python,COURSE,,,,Mixed
+147,HSE University,Сбор и анализ данных в Python,COURSE,,,,Intermediate
+148,Coursera Project Network,"Cleaning, Reshaping, and Expanding Datasets in Python",GUIDED PROJECT,4.3,18,,Intermediate
+149,Coursera Project Network,Python for Stock Market Analysis,GUIDED PROJECT,4.5,254,6400,Intermediate
+150,Coursera Project Network,Python for Financial Planning and Analysis (FP&A),GUIDED PROJECT,3.5,10,,Beginner
+151,Coursera Project Network,Snake game in Python: use Pygame to build your game,GUIDED PROJECT,,,,Intermediate
+152,Coursera Project Network,Statistical Analysis using Python Numpy,GUIDED PROJECT,,,,Intermediate
+153,Coursera Project Network,Chicken Invaders Game in Python using Pygame,GUIDED PROJECT,,,,Beginner
+154,LearnQuest,DevOps and Build Automation with Python,COURSE,,,,Beginner
+155,Coursera Project Network,Business Forecasting with Python,GUIDED PROJECT,4.4,84,3000,Intermediate
+156,Coursera Project Network,Use Python Regular Expressions to Process File Data,GUIDED PROJECT,,,,Intermediate
+157,Coursera Project Network,Basic Artificial Neural Networks in Python,GUIDED PROJECT,4.1,148,7100,Intermediate
+158,Coursera Project Network,Simulating Viral Pandemics in Python,GUIDED PROJECT,3.7,24,,Intermediate
+159,Coursera Project Network,Introduction to Statistics in Python,GUIDED PROJECT,,,,Intermediate
+160,LearnQuest,"Python Scripting: Dates, Classes and Collections",COURSE,,,,Beginner
+161,Coursera Project Network,Basic Statistics in Python (ANOVA),GUIDED PROJECT,4.4,18,,Beginner
+162,Coursera Project Network,Machine Learning con Python. Nivel Avanzado,GUIDED PROJECT,,,,Intermediate
+163,Codio,"Python Basic Structures: Lists, Strings, and Files",COURSE,,,,Beginner
+164,Codio,Object-Oriented Python: Inheritance and Encapsulation,COURSE,,,,Intermediate
+165,Codio,"Python Object Basics: Functions, Recursion, and Objects",COURSE,,,,Intermediate
+166,Coursera Project Network,Python for Financial Planning and Analysis (FP&A),GUIDED PROJECT,4.6,137,4300,Intermediate
+167,Coursera Project Network,Aprendiendo Python con circuitos digitales,GUIDED PROJECT,4.8,20,,Beginner
+168,Coursera Project Network,Aprendiendo Python con bases de datos,GUIDED PROJECT,4.6,10,,Beginner
+169,Coursera Project Network,Aprendiendo Python con álgebra lineal,GUIDED PROJECT,4.6,16,,Beginner
+170,Coursera Project Network,Use Python to Create a Web Testing Bot,GUIDED PROJECT,,,,Intermediate
+171,Coursera Project Network,Python Basics: Create a Guessing Number Game from Scratch,GUIDED PROJECT,4.7,58,2900,Beginner
+172,Coursera Project Network,Create a Python Application using MySQL,GUIDED PROJECT,4.4,108,4600,Intermediate
+173,Coursera Project Network,Python for Economic Data Analysis,GUIDED PROJECT,4.3,31,1700,Intermediate
+174,Coursera Project Network,Initiation Pratique à Python,GUIDED PROJECT,,,,Beginner
+175,Coursera Project Network,Processing Data with Python,GUIDED PROJECT,4.4,186,5300,Intermediate
+176,Coursera Project Network,Creating a Color Game in Python Using Tkinter GUI,GUIDED PROJECT,,,,Beginner
+177,Coursera Project Network,GUI Programming: Create a Login System in Python,GUIDED PROJECT,,,,Intermediate
+178,Coursera Project Network,Write your own Python tool to footprint a web application,GUIDED PROJECT,,,,Intermediate
+179,Coursera Project Network,"Activity Recognition using Python, Tensorflow and Keras",GUIDED PROJECT,,,,Beginner
+180,Coursera Project Network,Create Ping-Pong Game in Python using Turtle Graphics,GUIDED PROJECT,,,,Intermediate
+181,Coursera Project Network,Python 101: Develop Your First Python Program,GUIDED PROJECT,4.7,22,,Beginner
+182,Universidad Austral,Mastering SQL for Data Analysis,COURSE,4.2,132,11000,Beginner
+183,Universidad Austral,Python Beginner�s Lab: Hands-On Coding,COURSE,4.5,313,13000,Beginner
+184,LearnQuest,"Python Scripting: Files, Inheritance, and Databases",COURSE,,,,Beginner
+185,Coursera Project Network,"Concepts in Python: Loops, Functions and Returns",GUIDED PROJECT,4.8,49,2100,Beginner
+186,Coursera Project Network,Building Machine Learning Models in Python,GUIDED PROJECT,4.5,165,4000,Intermediate
+187,Coursera Project Network,"Aprendiendo Python con textos, números y ecuaciones",GUIDED PROJECT,4.8,30,,Beginner
+188,Coursera Project Network,Exception Handling in Python,GUIDED PROJECT,4.7,28,,Intermediate
+189,Coursera Project Network,Python Coding Skills for Beginners,GUIDED PROJECT,4.5,376,11000,Beginner
+190,Coursera Project Network,Python Starter Kit: Your First Coding Steps,GUIDED PROJECT,4.5,305,8500,Beginner
+191,University of Michigan,Programación para todos (Introducción a Python),COURSE,,,,Mixed
+192,Coursera Project Network,Creating a Supermarket App Using Python,GUIDED PROJECT,,,,Intermediate
+193,Coursera Community Project Network,Basic Data Analysis and Model Building using Python,GUIDED PROJECT,3.5,25,,Intermediate
+194,Coursera Community Project Network,Basic calculations with Python in Kaggle,GUIDED PROJECT,4.3,7,,Beginner
+195,IBM,Análise de dados com Python,COURSE,,,,Beginner
+196,University of Michigan,Programação para todos (Conceitos básicos de Python),COURSE,,,,Mixed
+197,University of Michigan,Программирование для всех (начало работы с Python),COURSE,,,,Mixed
+198,University of Michigan,Estructuras de datos de Python,COURSE,,,,Mixed
+199,IBM,Python: обработка и анализ данных и ИИ,COURSE,,,,Beginner
+200,IBM,Машинное обучение с использованием Python,COURSE,,,,Intermediate
+201,University of Michigan,Uso de bancos de dados com Python,COURSE,,,,Mixed
+202,Coursera Project Network,Basic Statistics in Python (Correlations and T-tests),GUIDED PROJECT,4.3,15,,Beginner
+203,Coursera Project Network,Feature Engineering in Python,GUIDED PROJECT,4.5,58,4200,Intermediate
+204,Coursera Project Network,GUI programming: Create a Calculator in Python,GUIDED PROJECT,,,,Intermediate
+205,IBM,Визуализация данных с помощью Python,COURSE,,,,Intermediate
+206,Coursera Project Network,Python Basics: Build Real Projects,GUIDED PROJECT,4.6,120,5800,Beginner
+207,Coursera Project Network,Python Tricks and Hacks for Productivity,GUIDED PROJECT,4,76,3900,Intermediate
+208,Coursera Project Network,Python Beginner�s Coding Skills,GUIDED PROJECT,3.8,93,3500,Beginner
+209,Coursera Project Network,Python Programming Fundamentals,GUIDED PROJECT,4.2,108,3200,Beginner
+210,Coursera Project Network,Simulating Time Series Data by Parallel Computing in Python,GUIDED PROJECT,4.9,8,,Intermediate
+211,Coursera Project Network,Create a Tic-Tac-Toe game in Python,GUIDED PROJECT,,,,Intermediate
+212,Coursera Project Network,"Python: Imputations, Feature Creation & Statistical Analysis",GUIDED PROJECT,4.2,25,2100,Intermediate
+213,Coursera Project Network,Build a Bot in Python for Basic File and Interface Chores,GUIDED PROJECT,,,,Intermediate
+214,Coursera Project Network,Exploring and Analyzing Fifa's Datasets Using Python,GUIDED PROJECT,,,,Beginner
+215,University of Michigan,Работа с базами данных в Python,COURSE,,,,Mixed
+216,Coursera Project Network,Build a User Interface using Python Language,GUIDED PROJECT,,,,Intermediate
+217,Coursera Project Network,COVID-19 : Les séries temporelles avec Python et Pandas,GUIDED PROJECT,4.6,17,,Intermediate
+218,Coursera Project Network,Plots Creation using Matplotlib Python,GUIDED PROJECT,,,,Beginner
+219,Coursera Project Network,Aprendiendo Python con estadística descriptiva,GUIDED PROJECT,4.6,25,,Beginner
+220,Coursera Project Network,Personal Desktop Notifier in Python: Covid-19 notifications,GUIDED PROJECT,,,,Intermediate
+221,IBM,Visualização de dados com o Python,COURSE,,,,Intermediate
+222,Coursera Project Network,Regex Python - Découvrir les Expressions Régulières,GUIDED PROJECT,4.8,9,,Beginner
+223,Coursera Project Network,Nettoyer vos données avec Python,GUIDED PROJECT,,,,Beginner
+224,Coursera Project Network,Create a Connect Four Game in Python using Pygame,GUIDED PROJECT,,,,Intermediate
+225,Coursera Project Network,Dice Game in Python,GUIDED PROJECT,4.6,9,,Beginner
+226,University of Michigan,Структуры данных Python,COURSE,,,,Mixed
+227,Coursera Project Network,Enhance your python unit testing using Coverage,GUIDED PROJECT,,,,Intermediate
+228,University of Michigan,Estruturas de dados Python,COURSE,,,,Mixed
+229,Coursera Project Network,Analyser vos données avec Python,GUIDED PROJECT,,,,Beginner
+230,Coursera Project Network,Data Processing using Python Collections,GUIDED PROJECT,,,,Intermediate
+231,Coursera Project Network,Graficando con Python,GUIDED PROJECT,,,,Intermediate
+232,University of Michigan,Python بُنى بيانات,COURSE,,,,Mixed
+233,Coursera Project Network,Crea tu primer juego de adivinanza con Python,GUIDED PROJECT,,,,Beginner
+234,Coursera Project Network,Build a Machine Learning Image Classifier with Python,GUIDED PROJECT,,,,Intermediate
+235,Coursera Project Network,Regresión logística con NumPy y Python,GUIDED PROJECT,,,,Beginner
+236,Coursera Project Network,Implementing Hangman Game Using Basics of Python 3,GUIDED PROJECT,4.5,24,,Beginner
+237,Coursera Project Network,Python Kickoff: Beginner�s Guide to Programming,GUIDED PROJECT,4.5,11,,Beginner
+238,Coursera Project Network,أساسيات python: برمج لعبة تخمين الرقم من الصفر,GUIDED PROJECT,,,,Beginner
+239,Coursera Project Network,Python برنامج لحل لعبة السودوكو بالذكاء الاصطناعى باستخدام,GUIDED PROJECT,,,,Intermediate
+240,Coursera Project Network,Creating a Word Jumble Game in Python Using Tkinter GUI,GUIDED PROJECT,,,,Beginner
+241,Coursera Project Network,Design and Develop an Obstacles Game using Pygame in Python,GUIDED PROJECT,,,,Intermediate
+242,IBM,Machine Learning with Python,COURSE,4.7,11004,210000,Intermediate
+243,University of Michigan,Applied Machine Learning in Python,COURSE,4.6,7342,230000,Intermediate
+244,Coursera Project Network,Satellite Imagery Analysis in Python,GUIDED PROJECT,4.2,44,,Beginner
+245,Universidade de São Paulo,Python Essentials: Learn by Doing,COURSE,4.9,1045,21000,Beginner
+246,Coursera Project Network,"Extract, Transform & Load using Python",GUIDED PROJECT,3.9,13,,Beginner
+247,Coursera Project Network,Climate Geospatial Analysis on Python with Xarray,GUIDED PROJECT,4.6,18,,Intermediate
+248,Coursera Project Network,Python Beginner�s Coding Practice,GUIDED PROJECT,4.3,638,13000,Beginner
+249,University of Michigan,Fitting Statistical Models to Data with Python,COURSE,4.4,533,23000,Intermediate
+250,University of Michigan,Applied Social Network Analysis in Python,COURSE,4.7,2435,78000,Intermediate
+251,Ludwig-Maximilians-Universität München (LMU),"Computers, Waves, Simulations: A Practical Introduction to Numerical Methods using Python",COURSE,4.7,250,13000,Intermediate
+252,Coursera Project Network,Building RESTful APIs in Python,GUIDED PROJECT,4.5,390,10000,Intermediate
+253,Coursera Project Network,Network Data Science with NetworkX and Python,GUIDED PROJECT,4.3,76,4800,Intermediate
+254,Coursera Project Network,Use Python Django to Build a Website,GUIDED PROJECT,4.1,8,,Intermediate
+255,Coursera Project Network,Image Processing with Python,GUIDED PROJECT,4.3,429,11000,Intermediate
+256,Coursera Project Network,Automate Your Workflows: Python for Business,GUIDED PROJECT,4.3,72,2400,Beginner
+257,EDHEC Business School,Python and Machine-Learning for Asset Management with Alternative Data Sets,COURSE,4.4,190,9400,Intermediate
+258,Coursera Project Network,Introduction to Natural Language Processing in Python,GUIDED PROJECT,3.5,43,2600,Intermediate
+259,Coursera Project Network,Linear Regression with Python,GUIDED PROJECT,4.6,400,9700,Intermediate
+260,SAS,Python WebSockets and Real-Time Apps,COURSE,4.5,11,2800,Mixed
+261,Coursera Project Network,Python OpenCV Augmented Reality,GUIDED PROJECT,,,,Beginner
+262,Università di Napoli Federico II,Python per la Data Science,COURSE,,,,Intermediate
+263,Coursera Project Network,Machine Learning Feature Selection in Python,GUIDED PROJECT,4,72,3800,Intermediate
+264,Coursera Project Network,Python for Finance: Portfolio Statistical Data Analysis,GUIDED PROJECT,4.7,7,,Beginner
+265,Coursera Project Network,Create your own Sudoku Solver using AI and Python,GUIDED PROJECT,4.2,30,2200,Intermediate
+266,Coursera Project Network,Python OpenCV Motion Detection,GUIDED PROJECT,4.1,7,,Beginner
+267,Coursera Project Network,Python for Market Research and Strategy,GUIDED PROJECT,4.5,59,3000,Intermediate
+268,Coursera Project Network,Building your first GAN in Python,GUIDED PROJECT,2.2,6,,Intermediate
+269,Coursera Project Network,Working with Amazon DynamoDB using Python & Boto3,GUIDED PROJECT,,,,Beginner
+270,Coursera Project Network,Robot Localization with Python and Particle Filters,GUIDED PROJECT,,,,Advanced
+271,Coursera Project Network,Build a Python application(API) on AWS(Lambda+API Gateway),GUIDED PROJECT,4.1,16,,Beginner
+272,Rice University,Python Coding Foundations for Beginners,COURSE,4.7,489,31000,Beginner
+273,IBM,Visualización de Datos con Python,COURSE,4.8,6,,Intermediate
+274,Coursera Project Network,Working with AWS S3 Buckets using Python & boto3,GUIDED PROJECT,,,,Beginner
+275,Coursera Project Network,Supervised Learning with Scikit-learn,GUIDED PROJECT,4.4,64,2900,Intermediate
+276,Coursera Project Network,Unsupervised Learning in Python: Clustering and Dimensionality Reduction,GUIDED PROJECT,4.5,147,6000,Intermediate
+277,Coursera Project Network,Procesamiento del lenguaje natural con Python y Power BI,GUIDED PROJECT,,,,Intermediate
+278,Coursera Project Network,Detect Fake News in Python with Tensorflow,GUIDED PROJECT,,,,Intermediate
+279,Coursera Project Network,Python Data Structures,GUIDED PROJECT,4.4,283,7700,Intermediate
+280,Coursera Project Network,Big-O Time Complexity in Python Code,GUIDED PROJECT,4.6,17,,Intermediate
+281,Coursera Project Network,Analysing Covid-19 Geospatial data with Python,GUIDED PROJECT,,,,Intermediate
+282,Coursera Project Network,Python Optical Character Recognition using Pytorch,GUIDED PROJECT,,,,Beginner
+283,Coursera Project Network,ML: Diagnose the presence of Breast Cancer with Python,GUIDED PROJECT,,,,Intermediate
+284,Coursera Project Network,Hyperparameter Tuning and Grid Search in Scikit-learn,GUIDED PROJECT,4.4,206,5800,Intermediate
+285,Coursera Project Network,AWS Elastic Beanstalk:Deploy a Python(Flask) Web Application,GUIDED PROJECT,4.6,12,,Beginner
+286,Coursera Project Network,Introduction to Search Techniques in Python: Binary Search,GUIDED PROJECT,,,,Beginner
+287,Coursera Project Network,Building End-to-End Machine Learning Projects,GUIDED PROJECT,4.3,22,2300,Intermediate
+288,Coursera Project Network,"Creating a Rock, Paper, Scissors Game in Python",GUIDED PROJECT,,,,Beginner
+289,Coursera Project Network,Python Basics: Hands-On Coding,GUIDED PROJECT,4.5,229,8400,Beginner
+290,Coursera Project Network,Crea tu primera aplicación web con Python y Flask,GUIDED PROJECT,,,,Intermediate
+291,Coursera Project Network,Create a Dynamic-Link Library with DevC++ for Python,GUIDED PROJECT,,,,Intermediate
+292,IBM,Aprendizaje Automático con Python,COURSE,,,,Intermediate
+293,University of Michigan,Uso de bases de datos con Python,COURSE,,,,Mixed
+294,University of Michigan,Uso de Python para Acceder a Datos Web,COURSE,,,,Mixed
+295,Coursera Project Network,Create Beautiful Data Visualizations with Python and Altair,GUIDED PROJECT,,,,Intermediate
+296,Coursera Project Network,Python Beginner�s Coding Exercises,GUIDED PROJECT,4.1,204,7200,Beginner
+297,IBM,Aprendizado de máquina com Python,COURSE,,,,Intermediate
+298,University of Michigan,Использование языка Python для доступа к веб-данным,COURSE,,,,Mixed
+299,Coursera Project Network,Support Vector Machine Classification in Python,GUIDED PROJECT,4.4,141,5800,Intermediate
+300,Coursera Project Network,Python Coding Fundamentals,GUIDED PROJECT,4.1,82,3800,Beginner
+301,Coursera Project Network,Image Segmentation with Python and Unsupervised Learning,GUIDED PROJECT,,,,Intermediate
+302,Coursera Project Network,Creating a Wordcloud using NLP and TF-IDF in Python,GUIDED PROJECT,,,,Beginner
+303,Coursera Project Network,Python Beginner�s Practical Course,GUIDED PROJECT,4.6,48,1800,Beginner
+304,Coursera Project Network,Version Control of a Python Project using Git,GUIDED PROJECT,4.4,28,1700,Intermediate
+305,Coursera Project Network,Machine Learning con Python. Nivel intermedio,GUIDED PROJECT,,,,Beginner
+306,Coursera Project Network,Determine Shortest Paths Between Routers Using Python,GUIDED PROJECT,,,,Intermediate
+307,Coursera Project Network,Wrangling Data for Data Analysts with Python,GUIDED PROJECT,,,,Beginner
+308,University of Michigan,Python استخدام قواعد البيانات مع,COURSE,,,,Mixed
+309,Coursera Project Network,Use Python and Java to Create a GUI Application,GUIDED PROJECT,,,,Intermediate
+310,Coursera Project Network,Visualización Avanzada de datos con Python,GUIDED PROJECT,,,,Intermediate
+311,Coursera Project Network,Análisis exploratorio de datos con Python y Pandas,GUIDED PROJECT,,,,Beginner
+312,Coursera Project Network,بناء Neural Network مكونه من 3 طبقات  بأستخدام لغة Python,GUIDED PROJECT,,,,Beginner
+313,Coursera Project Network,Message Encoding/Decoding in Python with GUI,GUIDED PROJECT,,,,Beginner
+314,Coursera Project Network,MatplotLib Python باستخدام  plots إنشاء ال,GUIDED PROJECT,,,,Beginner
+315,Coursera Project Network,Python في Pygame تصميم و تطوير لعبة العقبات باستخدام,GUIDED PROJECT,,,,Intermediate
+316,Coursera Project Network,Creando simulaciones con python,GUIDED PROJECT,,,,Intermediate
+317,Coursera Project Network,برنامج تنبيه سطح المكتب باستخدام Python: إشعارات Covid-19,GUIDED PROJECT,,,,Intermediate
+318,Coursera Project Network,Affectation de variable en Python,GUIDED PROJECT,,,,Beginner
+319,Coursera Project Network,Python معالجة مسبقة للبيانات و تحليلها بواسطة,GUIDED PROJECT,,,,Beginner
+320,Coursera Project Network,DataViz - Grammaire des Graphiques avec Python,GUIDED PROJECT,,,,Intermediate
+321,Coursera Project Network,Création de chaînes en Python,GUIDED PROJECT,,,,Beginner
+322,Coursera Project Network,Des nombres et plus en Python,GUIDED PROJECT,,,,Beginner
+323,Coursera Project Network,لعبة الثعبان عن طريق python:استخدم pygame لتصنع لعبتك الخاصة,GUIDED PROJECT,,,,Intermediate
+324,Coursera Project Network,Aprendizaje automático con Python y Azure Notebooks,GUIDED PROJECT,,,,Beginner
+325,Coursera Project Network,Extract Text Data with Python and Regex,GUIDED PROJECT,,,,Intermediate
+326,IBM,Introduction to Data Science,SPECIALIZATION,4.6,56644,540000,Beginner
+327,Stanford University,Structured Query Language: From Basics to Pro,COURSE,4.9,160251,4200000,Mixed
+328,IBM,Python Coding Practice for Beginners,SPECIALIZATION,4.6,30263,390000,Beginner
+329,IBM,Python Beginner�s Hands-On Course,PROFESSIONAL CERTIFICATE,4.7,3213,85000,Beginner
+330,IBM,Python Fundamentals Workshop,SPECIALIZATION,4.6,27106,380000,Beginner
+331,IBM,Python Beginner�s Coding Challenges,PROFESSIONAL CERTIFICATE,4.5,9308,180000,Beginner
+332,IBM,Python Basics: Practical Learning,PROFESSIONAL CERTIFICATE,4.6,29756,430000,Beginner
+333,Google Cloud,Preparing for Google Cloud Certification: Machine Learning Engineer,PROFESSIONAL CERTIFICATE,4.6,22128,310000,Intermediate
+334,Johns Hopkins University,Genomic Data Science,SPECIALIZATION,4.4,4922,110000,Intermediate
+335,IBM,IBM Machine Learning,PROFESSIONAL CERTIFICATE,4.6,387,19000,Intermediate
+336,Imperial College London,Python Fundamentals: Hands-On Coding,SPECIALIZATION,4.6,11387,270000,Beginner
+337,IBM,Python Fundamentals: Code Along,COURSE,4.5,21454,210000,Beginner
+338,DeepLearning.AI,"Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",COURSE,4.7,15315,250000,Intermediate
+339,HSE University,Advanced Machine Learning,SPECIALIZATION,4.4,3853,320000,Advanced
+340,DeepLearning.AI,Convolutional Neural Networks,COURSE,4.9,38978,360000,Intermediate
+341,"University of California, Santa Cruz",Coding for Everyone: Python,SPECIALIZATION,4.5,6252,340000,Beginner
+342,Columbia University,Financial Engineering and Risk Management Part I,COURSE,4.6,2296,380000,Mixed
+343,University of Pennsylvania,Python Basics: Learn by Doing,COURSE,4.7,937,61000,Beginner
+344,DeepLearning.AI,Sequence Models,COURSE,4.8,26685,290000,Intermediate
+345,DeepLearning.AI,Build Basic Generative Adversarial Networks (GANs),COURSE,4.7,1094,29000,Intermediate
+346,Imperial College London,TensorFlow 2 for Deep Learning,SPECIALIZATION,4.9,380,23000,Intermediate
+347,University of Washington,Machine Learning,SPECIALIZATION,4.6,14847,410000,Intermediate
+348,"University of California, Davis",Python Made Clear for Beginners,COURSE,4.7,2894,160000,Beginner
+349,HSE University,Python Made Fun and Easy,SPECIALIZATION,4.4,722,57000,Beginner
+350,University of Illinois at Urbana-Champaign,Accounting Data Analytics,SPECIALIZATION,4.7,403,26000,Intermediate
+351,University of California San Diego,Python Rookie Journey,COURSE,4.3,1189,120000,Beginner
+352,DeepLearning.AI,"Sequences, Time Series and Prediction",COURSE,4.7,4007,79000,Intermediate
+353,University of Washington,Python Coding Practice Bootcamp,COURSE,4.6,856,86000,Beginner
+354,IBM,Exploratory Data Analysis for Machine Learning,COURSE,4.6,305,14000,Intermediate
+355,"University of California, Santa Cruz",Bayesian Statistics: From Concept to Data Analysis,COURSE,4.6,2713,120000,Intermediate
+356,University of Pennsylvania,"Application of AI, InsurTech, and Real Estate Technology",COURSE,4.6,376,8600,Mixed
+357,Amazon Web Services,Working with Imbalanced Datasets in ML,COURSE,4.4,31,5200,Intermediate
+358,LearnQuest,Test-Driven Development,SPECIALIZATION,4,17,,Intermediate
+359,Coursera Project Network,Python Beginner�s Quest,GUIDED PROJECT,4.6,174,7700,Beginner
+360,Northwestern University,"Modern Robotics, Course 1:  Foundations of Robot Motion",COURSE,4.7,658,32000,Intermediate
+361,MongoDB Inc.,Decision Trees and Random Forests in Python,COURSE,4.3,562,45000,Intermediate
+362,Google Cloud,Advanced String Manipulation,COURSE,4.5,1547,50000,Advanced
+363,CentraleSupélec,Build Your First Android App (Project-Centered Course),COURSE,4.2,1781,300000,Mixed
+364,"University of California, Irvine",Data Science Fundamentals,SPECIALIZATION,4.2,63,3100,Beginner
+365,HSE University,Practical SQL for Real-World Data,COURSE,4.7,1085,100000,Advanced
+366,Imperial College London,Probabilistic Deep Learning with TensorFlow 2,COURSE,4.6,41,6700,Advanced
+367,Coursera Project Network,Python Coding Quest,GUIDED PROJECT,4.6,666,14000,Beginner
+368,University of Washington,Machine Learning: Regression,COURSE,4.8,5337,140000,Mixed
+369,IBM,"Developing Applications with SQL, Databases, and Django",COURSE,4.8,19,1800,Intermediate
+370,Coursera Project Network,Get Familiar with ML basics in a Kaggle Competition,GUIDED PROJECT,4.4,8,,Beginner
+371,Coursera Project Network,Python Fundamentals for Business,GUIDED PROJECT,4.5,331,7200,Beginner
+372,Google Cloud,Machine Learning with TensorFlow on Google Cloud Platform en Español,SPECIALIZATION,4.6,323,9100,Intermediate
+373,Coursera Project Network,Exploratory Data Analysis,GUIDED PROJECT,4.3,114,4900,Intermediate
+374,Princeton University,Python Stepwise Coding Practice,COURSE,4.7,487,98000,Beginner
+375,Coursera Project Network,Python Guided Practice Course,GUIDED PROJECT,4.6,447,15000,Beginner
+376,Coursera Project Network,Python Guided Coding Journey,GUIDED PROJECT,4.7,40,1800,Beginner
+377,Coursera Project Network,Deep Learning with PyTorch : Neural Style Transfer,GUIDED PROJECT,4.4,23,,Intermediate
+378,Coursera Community Project Network,Developing Data Science Projects With Limited Computer Resources Using Google Colaboratory,GUIDED PROJECT,4.6,7,,Intermediate
+379,Coursera Project Network,SQL Functions,GUIDED PROJECT,4.3,26,,Beginner
+380,University of Washington,SQL Essentials for Business and Tech,SPECIALIZATION,4.2,886,81000,Intermediate
+381,Google,Business Intelligence with Python,PROFESSIONAL CERTIFICATE,4.8,99156,900000,Beginner
+382,Johns Hopkins University,"HTML, CSS, and Javascript for Web Developers",COURSE,4.8,11463,530000,Mixed
+383,Stanford University,"Divide and Conquer, Sorting and Searching, and Randomized Algorithms",COURSE,4.8,4514,170000,Intermediate
+384,New York Institute of Finance,Machine Learning for Trading,SPECIALIZATION,3.9,803,32000,Intermediate
+385,Duke University,Introduction to Machine Learning,COURSE,4.7,2412,150000,Intermediate
+386,Google Cloud,Data Management with SQL,COURSE,4.7,979,53000,Beginner
+387,University of London,Python for All,COURSE,4.7,2498,90000,Beginner
+388,Amazon Web Services,Getting Started with AWS Machine Learning,COURSE,4.5,5333,160000,Intermediate
+389,Databricks,Introduction to Computational Statistics for Data Scientists,SPECIALIZATION,,,,Beginner
+390,Google,Python Beginner�s Rise,COURSE,4.8,4656,110000,Beginner
+391,Pontificia Universidad Católica de Chile,English for Common Interactions in the Workplace: Basic Level,COURSE,4.7,646,56000,Mixed
+392,Amazon Web Services,Linear and Logistic Regression from Scratch,COURSE,4.7,24,5400,Intermediate
+393,University of Michigan,Web Application Technologies and Django,COURSE,4.7,1103,48000,Intermediate
+394,Google Cloud,"Introduction to Trading, Machine Learning & GCP",COURSE,4,619,26000,Intermediate
+395,IBM,Advanced Machine Learning and Signal Processing,COURSE,4.5,1131,36000,Advanced
+396,University of California San Diego,Data Structures,COURSE,4.6,4212,190000,Intermediate
+397,Saint Petersburg State University,Competitive Programmer's Core Skills,COURSE,4.6,266,38000,Intermediate
+398,New York Institute of Finance,Using Machine Learning in Trading and Finance,COURSE,3.9,255,13000,Intermediate
+399,University of Michigan,Support Vector Machines Made Simple,COURSE,4.7,435,23000,Intermediate
+400,New York Institute of Finance,Reinforcement Learning for Trading Strategies,COURSE,3.7,159,8700,Intermediate
+401,New York University,Hands-On SQL: Learn by Doing,COURSE,3.8,595,25000,Intermediate
+402,Duke University,Cloud Computing Foundations,COURSE,5,13,,Beginner
+403,Coursera Project Network,Bitcoin Price Prediction using Facebook Prophet,GUIDED PROJECT,4.5,34,,Beginner
+404,Amazon Web Services,Building Modern .NET Applications on AWS,COURSE,,,,Intermediate
+405,University of Washington,Machine Learning: Classification,COURSE,4.7,3561,110000,Mixed
+406,Duke University,"Cloud Virtualization, Containers and APIs",COURSE,4.8,6,,Beginner
+407,New York University,Fundamentals of Machine Learning in Finance,COURSE,3.8,290,15000,Intermediate
+408,University of California San Diego,Advanced Algorithms and Complexity,COURSE,4.6,595,65000,Advanced
+409,Duke University,Cloud Data Engineering,COURSE,,,,Intermediate
+410,Rice University,Algorithmic Thinking (Part 1),COURSE,4.7,324,47000,Intermediate
+411,Coursera Project Network,Sentiment Analysis using Machine Learning,GUIDED PROJECT,4.7,255,6800,Intermediate
+412,SberUniversity,SQL for Analysts and Developers,COURSE,4.5,77,8100,Intermediate
+413,Rice University,Algorithmic Thinking (Part 2),COURSE,4.7,199,21000,Intermediate
+414,Coursera Project Network,Visualizing Filters of a CNN using TensorFlow,GUIDED PROJECT,5,6,,Intermediate
+415,University of Michigan,Moneyball and Beyond,COURSE,,,,Mixed
+416,DeepLearning.AI,DeepLearning.AI TensorFlow Developer,PROFESSIONAL CERTIFICATE,4.7,19270,290000,Intermediate
+417,DeepLearning.AI,Natural Language Processing,SPECIALIZATION,4.6,3440,86000,Intermediate
+418,University of Pennsylvania,Understanding NoSQL Databases,SPECIALIZATION,4.6,2148,45000,Beginner
+419,University of Virginia,Python Coding Discovery,SPECIALIZATION,4.7,6772,250000,Beginner
+420,Google Cloud,Python Rookie Bootcamp,PROFESSIONAL CERTIFICATE,4.7,44641,570000,Beginner
+421,Google Cloud,Preparing for Google Cloud Certification: Cloud Data Engineer,PROFESSIONAL CERTIFICATE,4.6,15009,210000,Intermediate
+422,Google Cloud,"Data Engineering, Big Data, and Machine Learning on GCP",SPECIALIZATION,4.6,14796,210000,Intermediate
+423,DeepLearning.AI,Neural Networks and Deep Learning,COURSE,4.9,106332,960000,Intermediate
+424,DeepLearning.AI,NoSQL for Modern Data Systems,SPECIALIZATION,4.8,564,15000,Intermediate
+425,DeepLearning.AI,Generative Adversarial Networks (GANs),SPECIALIZATION,4.7,1277,31000,Intermediate
+426,University at Buffalo,Data Visualization and Insights with Python,SPECIALIZATION,4.6,5888,140000,Intermediate
+427,Macquarie University,Customer Segmentation with Clustering,SPECIALIZATION,4.8,1238,54000,Intermediate
+428,IBM,IBM Introduction to Machine Learning,SPECIALIZATION,4.6,361,16000,Intermediate
+429,University of Toronto,Advanced Portfolio Construction and Analysis with Python,SPECIALIZATION,4.7,2597,110000,Advanced
+430,IBM,Python Analyst Fundamentals,SPECIALIZATION,4.6,973,21000,Beginner
+431,University of California San Diego,Python Newbie Navigator,SPECIALIZATION,4.5,2891,140000,Beginner
+432,DeepLearning.AI,"Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization",COURSE,4.9,58461,400000,Intermediate
+433,Atlassian,Python for Fresh Coders,COURSE,4.7,4041,93000,Beginner
+434,University of Alberta,Python for New Programmers,SPECIALIZATION,4.7,9710,170000,Beginner
+435,Google Cloud,Machine Learning with TensorFlow on Google Cloud Platform,SPECIALIZATION,4.5,8646,110000,Intermediate
+436,IBM,Introduction to Data Analytics,COURSE,4.8,2477,70000,Beginner
+437,"University of California, Davis",Building with NoSQL Databases,SPECIALIZATION,4.8,5185,130000,Beginner
+438,Duke University,Object Oriented Programming in Python,SPECIALIZATION,4.6,12275,470000,Beginner
+439,DeepLearning.AI,Natural Language Processing with Classification and Vector Spaces,COURSE,4.6,2692,78000,Intermediate
+440,University of Colorado Boulder,Algorithms for Battery Management Systems,SPECIALIZATION,4.7,1366,32000,Intermediate
+441,"University of California, Irvine",An Introduction to Programming the Python,SPECIALIZATION,4.6,17220,410000,Beginner
+442,École Polytechnique Fédérale de Lausanne,Learn Python from Scratch,COURSE,4.9,9,1600,Beginner
+443,Moscow Institute of Physics and Technology,ML for Time Series Forecasting,SPECIALIZATION,4.7,6235,97000,Intermediate
+444,Google Cloud,NoSQL for Big Data Applications,SPECIALIZATION,4.6,3176,49000,Beginner
+445,University of California San Diego,An Introduction to Programming the Python,SPECIALIZATION,4.5,12307,310000,Beginner
+446,DeepLearning.AI,TensorFlow: Data and Deployment,SPECIALIZATION,4.6,1102,36000,Intermediate
+447,LearnQuest,Python Beginner�s Code Workshop,SPECIALIZATION,4.5,639,19000,Beginner
+448,DeepLearning.AI,Convolutional Neural Networks in TensorFlow,COURSE,4.7,6688,93000,Intermediate
+449,Vanderbilt University,Python Coding Progress Path,SPECIALIZATION,4.5,3140,190000,Beginner
+450,Imperial College London,Python Beginner�s Interactive Lab,COURSE,4.7,9769,240000,Beginner
+451,IBM,SQL Querying Made Easy,PROFESSIONAL CERTIFICATE,4.6,85,2300,Beginner
+452,Cloudera,Python Beginner�s Friendly Start,SPECIALIZATION,4.8,1034,43000,Beginner
+453,IBM,Python Coding Easy Steps,PROFESSIONAL CERTIFICATE,4.4,89,4300,Beginner
+454,University of Toronto,Python Coding Friendly Path,SPECIALIZATION,4.9,1837,52000,Beginner
+455,DeepLearning.AI,Natural Language Processing in TensorFlow,COURSE,4.6,5403,89000,Intermediate
+456,DeepLearning.AI,Natural Language Processing with Probabilistic Models,COURSE,4.7,1109,34000,Intermediate
+457,IBM,Python Coding Fun Quest,COURSE,4.7,589,16000,Beginner
+458,University of Colorado Boulder,Advanced Structured Query Language Techniques,SPECIALIZATION,4.8,318,22000,Advanced
+459,Northwestern University,"Modern Robotics:  Mechanics, Planning, and Control",SPECIALIZATION,4.7,729,36000,Intermediate
+460,Lund University,AI & Law,COURSE,4.7,51,3100,Mixed
+461,DeepLearning.AI,"Custom Models, Layers, and Loss Functions with TensorFlow",COURSE,4.9,420,11000,Intermediate
+462,University of California San Diego,Object Oriented Python Programming: Data Structures and Beyond,SPECIALIZATION,4.7,6399,310000,Intermediate
+463,Johns Hopkins University,Python Beginner�s Code Strength,SPECIALIZATION,4.3,1377,66000,Beginner
+464,The Linux Foundation,Python Beginner�s Code Courage,SPECIALIZATION,4.5,2113,49000,Beginner
+465,University of Michigan,Python Beginner�s Climb,SPECIALIZATION,4.7,86,4500,Beginner
+466,IBM,Python Beginner�s Next Step,COURSE,4.7,71,4400,Beginner
+467,University of California San Diego,Algorithmic Toolbox,COURSE,4.6,10667,380000,Intermediate
+468,HSE University,Python Coding New,SPECIALIZATION,4.7,22,1700,Beginner
+469,DeepLearning.AI,Building ML-Powered Dashboards,COURSE,4.8,169,8200,Intermediate
+470,HSE University,Intro to Recommender Systems in Python,SPECIALIZATION,4.5,13,2100,Intermediate
+471,University of Colorado Boulder,"Algorithms for Searching, Sorting, and Indexing",COURSE,4.4,7,,Intermediate
+472,University of California San Diego,Python for Business,COURSE,4.4,1834,100000,Beginner
+473,DeepLearning.AI,ML for Business and Marketing Analytics,COURSE,4.8,162,5300,Intermediate
+474,IBM,Python Beginner�s Easy Learning,COURSE,4.6,732,17000,Beginner
+475,"University of California, Santa Cruz",Business Data Analysis with Python,COURSE,4.5,3952,140000,Beginner
+476,Moscow Institute of Physics and Technology,Feature Selection and Engineering for ML,SPECIALIZATION,4.4,1042,44000,Intermediate
+477,The University of Sydney,Intermediate Machine Learning with Python,COURSE,4.8,1025,23000,Intermediate
+478,Google Cloud,ML Models in Action,SPECIALIZATION,4.7,336,7300,Intermediate
+479,Berklee College of Music,Python Essentials for Business Students,COURSE,4.5,204,24000,Beginner
+480,IBM,Ciencia de Datos Aplicada,SPECIALIZATION,4.8,23,,Beginner
+481,University of Illinois at Urbana-Champaign,Applied Python for Business Intelligence,SPECIALIZATION,4.4,1784,150000,Intermediate
+482,University of Toronto,Code to Cash: Python for Business Growth,SPECIALIZATION,4.7,1676,100000,Beginner
+483,Coursera Project Network,Sentiment Analysis with Deep Learning using BERT,GUIDED PROJECT,4.5,328,11000,Intermediate
+484,IBM,Python Programming for Business Applications,PROFESSIONAL CERTIFICATE,4.7,126,3600,Beginner
+485,University of Toronto,Advanced Computer Vision with TensorFlow,COURSE,4.7,673,33000,Advanced
+486,IBM,Fundamentals of Python Programming language,COURSE,4.3,1856,57000,Beginner
+487,DeepLearning.AI,Intermediate Python for Financial Modeling,COURSE,4.8,310,9900,Intermediate
+488,"University of California, Irvine",Structured Query Language for Data Science,COURSE,4.4,37,3400,Beginner
+489,University of Colorado Boulder,Introduction to battery-management systems,COURSE,4.8,1242,28000,Intermediate
+490,University of Washington,Social Media Data Analytics,COURSE,4.1,261,33000,Intermediate
+491,IBM,Smart Business with Python,SPECIALIZATION,4.3,224,7900,Advanced
+492,The Hong Kong University of Science and Technology,Python Coding Practice Course,COURSE,4.8,2775,48000,Beginner
+493,ESSEC Business School,Strategic Business Analytics,SPECIALIZATION,4.3,1155,84000,Advanced
+494,Google Cloud,Python for Smart Business Systems,SPECIALIZATION,4.4,147,3600,Intermediate
+495,West Virginia University,Python Coding Project Journey,SPECIALIZATION,4.5,243,15000,Beginner
+496,IBM,Deep Neural Networks with PyTorch,COURSE,4.4,887,24000,Intermediate
+497,Peking University,Automate & Analyze: Python for Business,COURSE,4.8,578,30000,Intermediate
+498,Coursera Project Network,Database Design and Structured Query Language,GUIDED PROJECT,4.5,909,21000,Intermediate
+499,University of Zurich,An Intuitive Introduction to Python,COURSE,4.7,1133,42000,Beginner
+500,LearnQuest,Introduction to Programming inPython,COURSE,4.5,522,14000,Beginner
+501,University of Geneva,Simulation and modeling of natural processes,COURSE,4.2,267,28000,Mixed
+502,Coursera Project Network,Python for Process Optimization in Business,GUIDED PROJECT,4.6,289,9200,Intermediate
+503,The University of Tokyo,Interactive Teaching（インタラクティブ・ティーチング）,COURSE,,,,Mixed
+504,Imperial College London,Getting started with TensorFlow 2,COURSE,4.9,325,19000,Intermediate
+505,IBM,Supervised Machine Learning: Regression,COURSE,4.8,103,4700,Intermediate
+506,Macquarie University,Excel Power Tools for Data Analysis,COURSE,4.8,70,3500,Intermediate
+507,University of California San Diego,The Complete Structured Query Language Guide,COURSE,4.6,741,34000,Beginner
+508,Coursera Project Network,Advanced Python for Business Solutions,GUIDED PROJECT,3.8,125,6400,Advanced
+509,Johns Hopkins University,Python for Beginners: An Intuitive Approach,SPECIALIZATION,4.6,78,3400,Beginner
+510,University of Washington,Automating Business Workflows with Python,COURSE,4.6,12412,340000,Mixed
+511,Politecnico di Milano,Python Basics: An Intuitive Introduction,COURSE,4.6,1084,34000,Beginner
+512,HSE University,Промышленное машинное обучение,SPECIALIZATION,,,,Intermediate
+513,DeepLearning.AI,Browser-based Models with TensorFlow.js,COURSE,4.7,803,30000,Intermediate
+514,IBM,Intuitive Python Coding for New Programmers,COURSE,4.3,122,12000,Beginner
+515,École Polytechnique,NoSQL for Real-Time Data Systems,COURSE,4.9,31,2600,Advanced
+516,University of Michigan,High Stakes Leadership: Leading in Times of Crisis,COURSE,4.6,213,13000,Mixed
+517,IBM,Introduction to Deep Learning & Neural Networks with Keras,COURSE,4.7,866,17000,Intermediate
+518,IBM,The Art of Model Optimization,COURSE,4.6,165,6200,Intermediate
+519,University of Pennsylvania,Intuitive Python: From Zero to Code,COURSE,3.9,25,2600,Beginner
+520,University of Toronto,Learn to Program: Crafting Quality Code,COURSE,4.6,631,50000,Mixed
+521,DeepLearning.AI,Device-based Models with TensorFlow Lite,COURSE,4.7,478,17000,Intermediate
+522,HSE University,Introduction to Deep Learning,COURSE,4.5,1774,160000,Advanced
+523,University of Colorado Boulder,Kinematics: Describing the Motions of Spacecraft,COURSE,4.9,253,17000,Advanced
+524,HSE University,Discrete Math and Analyzing Social Graphs,COURSE,4.4,397,26000,Mixed
+525,LearnQuest,Python for Advanced Financial Applications,COURSE,4.4,929,43000,Advanced
+526,Coursera Project Network,Anomaly Detection in Time Series Data with Keras,GUIDED PROJECT,4.2,225,7400,Intermediate
+527,National Research Tomsk State University,Python Simplified: An Intuitive Beginner�s Course,COURSE,4.9,845,28000,Beginner
+528,Imperial College London,Mathematics for Machine Learning: PCA,COURSE,4,2599,59000,Intermediate
+529,MongoDB Inc.,Understanding ML Pipelines in Practice,COURSE,4.6,43,7900,Intermediate
+530,University of California San Diego,Feature Engineering Fundamentals,COURSE,4.7,5126,240000,Intermediate
+531,Universidad Austral,Intuitive Python: Your First Steps in Coding,SPECIALIZATION,4.2,694,33000,Beginner
+532,University at Buffalo,Practical Python for Business Professionals,COURSE,4.6,831,20000,Intermediate
+533,University of Michigan,JSON and Natural Language Processing in PostgreSQL,COURSE,4.9,18,,Intermediate
+534,Google Cloud,"Smart Analytics, Machine Learning, and AI on GCP",COURSE,4.6,970,22000,Intermediate
+535,Imperial College London,Customising your models with TensorFlow 2,COURSE,4.9,95,8200,Intermediate
+536,"University of California, Irvine",The Arduino Platform and C Programming,COURSE,4.7,6424,160000,Mixed
+537,Cloudera,Intuitive Python: Learn by Doing,COURSE,4.9,384,18000,Beginner
+538,University of Virginia,Python Fundamentals: Intuitive and Easy,COURSE,4.8,271,15000,Beginner
+539,The University of Edinburgh,Data Science in Stratified Healthcare and Precision Medicine,COURSE,4.6,222,14000,Intermediate
+540,Coursera Project Network,Data Analysis Using Pyspark,GUIDED PROJECT,4.4,142,5200,Intermediate
+541,Google Cloud,Machine Learning with TensorFlow  Google Cloud Platform 日本語版,SPECIALIZATION,4.4,143,2600,Intermediate
+542,IBM,Applied AI with DeepLearning,COURSE,4.4,1007,46000,Advanced
+543,IBM,Introduction to Relational Databases (RDBMS),COURSE,4.6,9,,Beginner
+544,Yonsei University,Intuitive Python Bootcamp for Beginners,COURSE,4.7,1918,40000,Beginner
+545,Coursera Project Network,NoSQL Fundamentals for Developers,GUIDED PROJECT,4.4,112,3800,Beginner
+546,Universidad Nacional Autónoma de México,Build Your First Website,COURSE,4.9,304,8400,Beginner
+547,Moscow Institute of Physics and Technology,Data Preprocessing for ML Success,COURSE,4.8,2532,33000,Intermediate
+548,University of Illinois at Urbana-Champaign,Data Analytics Foundations for Accountancy I,COURSE,4.3,28,6900,Mixed
+549,Tsinghua University,Data Structures and Algorithms,SPECIALIZATION,2.5,26,12000,Intermediate
+550,University of California San Diego,Python Pathway: From Zero to Code,COURSE,4.5,491,28000,Beginner
+551,IBM,Deep Learning and Reinforcement Learning,COURSE,4.7,38,3400,Intermediate
+552,Google Cloud,NoSQL and Big Data Architecture,COURSE,4.4,2563,36000,Intermediate
+553,"University of California, Davis",Fine-Tuning ML Models for Performance,COURSE,4.9,1822,31000,Intermediate
+554,Johns Hopkins University,Algorithms for DNA Sequencing,COURSE,4.8,717,29000,Mixed
+555,DeepLearning.AI,Web Development for Beginners,COURSE,4.3,383,14000,Intermediate
+556,HSE University,"Дискретная математика: подсчеты, графы, случайные блуждания",COURSE,4.9,17,,Beginner
+557,Coursera Project Network,Getting Started with Tensorflow 2,GUIDED PROJECT,2.7,10,,Beginner
+558,Google Cloud,Real-Time Analytics with NoSQL,COURSE,4.7,260,6600,Intermediate
+559,University of California San Diego,Python Spark: Ignite Your Coding Skills,COURSE,4.7,334,17000,Beginner
+560,Johns Hopkins University,The R Programming Environment,COURSE,4.4,1099,46000,Intermediate
+561,Coursera Project Network,Perform Real-Time Object Detection with YOLOv3,GUIDED PROJECT,3.7,265,7900,Intermediate
+562,DeepLearning.AI,ML for Customer Churn Prediction,COURSE,4.7,360,14000,Intermediate
+563,Coursera Project Network,Python Foundations: Start Your Coding Journey,GUIDED PROJECT,3.9,15,,Beginner
+564,University of Michigan,Django Features and Libraries,COURSE,4.8,213,15000,Intermediate
+565,University of Illinois at Urbana-Champaign,Getting Started with CyberGIS,COURSE,,,,Beginner
+566,University of Alberta,Regression Models Beyond the Basics,COURSE,4.8,1837,53000,Mixed
+567,Intel,Python Foundations: Start Your Coding Journey,COURSE,4.6,545,18000,Beginner
+568,Coursera Project Network,Classification of COVID19 using Chext X-ray Images in Keras,GUIDED PROJECT,4.7,15,,Intermediate
+569,University of Michigan,User Experience & Interaction Design for AR/VR/MR/XR,COURSE,4.8,26,,Intermediate
+570,IBM,Building Deep Learning Models with TensorFlow,COURSE,4.3,551,11000,Intermediate
+571,University of Toronto,Python Entry: Learn to Code Confidently,COURSE,4.7,1412,90000,Beginner
+572,Coursera Project Network,Deep Learning with PyTorch: Build a Neural Network,GUIDED PROJECT,4.3,22,,Intermediate
+573,Coursera Project Network,Python Start-Up: Beginner�s Coding Course,GUIDED PROJECT,4.8,273,9100,Beginner
+574,Coursera Project Network,Hands-On Projects with NoSQL Databases,GUIDED PROJECT,4.3,155,4300,Intermediate
+575,Coursera Project Network,Handling Outliers and Noisy Data,GUIDED PROJECT,4.8,38,3900,Intermediate
+576,IBM,Specialized Models: Time Series and Survival Analysis,COURSE,4.4,35,3200,Intermediate
+577,IBM,Building AI Applications with Watson APIs,COURSE,4.3,548,10000,Intermediate
+578,Google Cloud,Feature Engineering,COURSE,4.5,1633,24000,Intermediate
+579,Coursera Project Network,Predicting the Weather with Artificial Neural Networks,GUIDED PROJECT,,,,Intermediate
+580,Coursera Project Network,Deploy Machine Learning Model into AWS Cloud Servers,GUIDED PROJECT,4.5,22,,Intermediate
+581,Coursera Project Network,Data Analytics en Power BI,GUIDED PROJECT,4.4,92,3300,Intermediate
+582,Coursera Project Network,Quantitative Finance for Business with Python,GUIDED PROJECT,4.5,477,9100,Beginner
+583,Codio,Programming in Java: A Hands-on Introduction,SPECIALIZATION,4.4,6,,Beginner
+584,The Linux Foundation,Python Essentials: The Beginner�s Toolkit,COURSE,4.5,1099,28000,Beginner
+585,Google Cloud,"Data Engineer, Big Data and ML on Google Cloud en Français",SPECIALIZATION,4.4,28,1800,Intermediate
+586,Technische Universität München (TUM),Predictive Modeling for Real-World Problems,COURSE,4.5,279,13000,Intermediate
+587,Vanderbilt University,"Android App Components - Intents, Activities, and Broadcast Receivers",COURSE,4.2,686,39000,Mixed
+588,Coursera Project Network,Advanced Data-Driven Strategy Using Python,GUIDED PROJECT,4.6,89,5800,Advanced
+589,Google Cloud,Python Fundamentals: Build Your First Program,COURSE,4.7,95,6500,Beginner
+590,ESSEC Business School,Foundations of strategic business analytics,COURSE,4.4,599,54000,Mixed
+591,Coursera Project Network,Image Classification with CNNs using Keras,GUIDED PROJECT,4.4,534,12000,Intermediate
+592,Coursera Project Network,Cleaning and Exploring Big Data using PySpark,GUIDED PROJECT,4.4,28,2100,Intermediate
+593,Coursera Project Network,Python Entryway: Step-by-Step Coding,GUIDED PROJECT,4.5,467,11000,Beginner
+594,University of Michigan,Fraud Detection Using ML,COURSE,4.8,166,16000,Intermediate
+595,West Virginia University,Price Prediction with Regression Models,COURSE,4.5,178,11000,Mixed
+596,Google Cloud,Applying Machine Learning to your Data with GCP,COURSE,4.7,807,13000,Intermediate
+597,Coursera Project Network,Compare time series predictions of COVID-19 deaths,GUIDED PROJECT,4.5,19,,Intermediate
+598,Moscow Institute of Physics and Technology,Python Breakthrough: Beginner�s Guide,COURSE,4.6,413,24000,Beginner
+599,IBM,Advanced Python for Business Leaders,COURSE,4.5,329,7900,Advanced
+600,Coursera Project Network,Bank Loan Approval Prediction With Artificial Neural Nets,GUIDED PROJECT,4.4,8,,Beginner
+601,Google Cloud,Art and Science of Machine Learning,COURSE,4.6,1349,21000,Intermediate
+602,Coursera Project Network,Building Machine Learning Pipelines in PySpark MLlib,GUIDED PROJECT,4.4,39,2000,Intermediate
+603,University of California San Diego,Python Genesis: Start Coding Today,COURSE,4.4,2255,63000,Beginner
+604,Coursera Project Network,Introduction to Web Development,GUIDED PROJECT,4.8,39,1700,Intermediate
+605,Coursera Project Network,Text Classification Using Word2Vec and LSTM on Keras,GUIDED PROJECT,4.4,10,,Intermediate
+606,HSE University,Обработка больших данных,COURSE,,,,Intermediate
+607,Coursera Project Network,Natural Language Processing for Stocks News Analysis,GUIDED PROJECT,,,,Beginner
+608,Coursera Project Network,Getting Started with Rstudio,GUIDED PROJECT,4.7,24,,Beginner
+609,Coursera Project Network,Learn Object Oriented Programming With C++,GUIDED PROJECT,4,71,3100,Intermediate
+610,DeepLearning.AI,Neuronale Netze und Deep Learning,COURSE,,,,Intermediate
+611,Coursera Project Network,Sales Forecasting Using Machine Learning,GUIDED PROJECT,4.5,239,6400,Intermediate
+612,Coursera Project Network,Python Basecamp: Beginner�s Coding Course,GUIDED PROJECT,4.5,216,5300,Beginner
+613,Coursera Project Network,Deploy Models with TensorFlow Serving and Flask,GUIDED PROJECT,4.5,182,7300,Intermediate
+614,Coursera Project Network,Blockchain Scalability and Performance,GUIDED PROJECT,4.6,89,4700,Advanced
+615,HSE University,Линейная алгебра: от идеи к формуле,COURSE,,,,Beginner
+616,Coursera Project Network,Predictive Business Analytics in Python,GUIDED PROJECT,4.6,277,8200,Intermediate
+617,Coursera Project Network,Python Trailblaze: Learn the Basics,GUIDED PROJECT,4.2,40,,Beginner
+618,Coursera Project Network,Deep Learning with PyTorch : Build an AutoEncoder,GUIDED PROJECT,,,,Beginner
+619,University of Michigan,Smart Recommendations with ML,COURSE,4.7,33,4800,Mixed
+620,Google Cloud,Advanced Business Analytics with Python,COURSE,4.6,489,13000,Advanced
+621,LearnQuest,Test-Driven Development Overview,COURSE,4.3,12,,Intermediate
+622,Google Cloud,Text Classification in Python,SPECIALIZATION,4.6,51,2300,Intermediate
+623,Coursera Project Network,Introduction to API Testing using JMeter Tool,GUIDED PROJECT,4.4,40,,Beginner
+624,"University of California, Irvine",Interfacing with the Raspberry Pi,COURSE,4.7,1519,71000,Mixed
+625,Coursera Project Network,Introduction to Python: Build Your Own Skills,GUIDED PROJECT,4.6,195,6600,Beginner
+626,Coursera Project Network,Getting Started with PyTorch,GUIDED PROJECT,2.6,10,,Beginner
+627,Coursera Project Network,Perform Sentiment Analysis with scikit-learn,GUIDED PROJECT,4.5,402,9300,Intermediate
+628,Coursera Project Network,"HTML, CSS, and JavaScript Fundamentals",GUIDED PROJECT,4.5,149,5300,Intermediate
+629,IBM,AI Workflow: Business Priorities and Data Ingestion,COURSE,4.3,134,3900,Intermediate
+630,Coursera Project Network,Image Colorization using TensorFlow 2 and Keras,GUIDED PROJECT,,,,Beginner
+631,Coursera Project Network,Neural Network from Scratch in TensorFlow,GUIDED PROJECT,4.5,259,9300,Intermediate
+632,Coursera Project Network,Build local development environments using Docker containers,GUIDED PROJECT,4.7,79,2500,Intermediate
+633,IBM,بايثون لعلوم البيانات والذكاء الصناعي,COURSE,,,,Beginner
+634,University of Toronto,Rapid Python Crash Course for Beginners,COURSE,4.9,475,17000,Beginner
+635,LearnQuest,A Practical Introduction to Test-Driven Development,COURSE,4,8,,Intermediate
+636,"University of California, Irvine","Intro to Analytic Thinking, Data Science, and Data Mining",COURSE,4.1,41,2200,Intermediate
+637,IBM,Full Stack Cloud Development Capstone Project,COURSE,,,,Intermediate
+638,Coursera Project Network,Python Essentials Crash Course,GUIDED PROJECT,4.6,275,7700,Beginner
+639,Saint Petersburg State University,ML for Smart Home & IoT Data,COURSE,4.8,32,10000,Intermediate
+640,Coursera Project Network,Simple Nearest Neighbors Regression and Classification,GUIDED PROJECT,4.7,7,,Intermediate
+641,Coursera Project Network,Generating New Recipes using GPT-2,GUIDED PROJECT,4.3,30,2500,Intermediate
+642,University of Pennsylvania,Inheritance and Data Structures in Java,COURSE,4.2,12,,Beginner
+643,Universidade de São Paulo,Laboratório de Programação Orientada a Objetos - Parte 1,COURSE,4.8,13,,Intermediate
+644,IBM,AI Workflow: Feature Engineering and Bias Detection,COURSE,4.4,59,2400,Advanced
+645,University of California San Diego,Basic Data Processing and Visualization,COURSE,4.3,162,16000,Intermediate
+646,HSE University,Математическая статистика и А/В тестирование,COURSE,,,,Intermediate
+647,Coursera Project Network,Blockchain and Supply Chain Management,GUIDED PROJECT,4.4,170,4200,Beginner
+648,Coursera Project Network,"Python Crash Course: Learn Fast, Code Faster",GUIDED PROJECT,4.7,61,3700,Beginner
+649,Coursera Project Network,Python Quickstart Crash Course,GUIDED PROJECT,4.7,42,2600,Beginner
+650,Coursera Project Network,Understanding Deepfakes with Keras,GUIDED PROJECT,4.4,147,6600,Advanced
+651,Coursera Project Network,TensorFlow for CNNs: Learn and Practice CNNs,GUIDED PROJECT,4.4,29,,Intermediate
+652,Coursera Project Network,Blockchain Architecture and Design Patterns,GUIDED PROJECT,4.5,52,1900,Intermediate
+653,Coursera Project Network,Cryptocurrency Trading and Blockchain Basics,GUIDED PROJECT,4.5,193,6900,Intermediate
+654,Coursera Project Network,Covid-19 Cases Forecasting Using Fbprophet,GUIDED PROJECT,,,,Intermediate
+655,Coursera Project Network,Avoid Overfitting Using Regularization in TensorFlow,GUIDED PROJECT,4.8,71,4300,Intermediate
+656,Coursera Project Network,TensorFlow for AI: Computer Vision Basics,GUIDED PROJECT,4,38,3700,Intermediate
+657,Coursera Project Network,Ansible Basics & Installing WordPress on LAMP with Playbooks,GUIDED PROJECT,4.6,29,,Beginner
+658,Coursera Project Network,TensorFlow for AI: Get to Know Tensorflow,GUIDED PROJECT,4.3,46,3600,Intermediate
+659,Coursera Project Network,Blockchain Development Bootcamp,GUIDED PROJECT,4.5,112,5300,Intermediate
+660,Coursera Project Network,Python Crash Course: The Fast Track to Coding,GUIDED PROJECT,4.6,56,3600,Beginner
+661,Coursera Project Network,Pneumonia Classification using PyTorch,GUIDED PROJECT,,,,Intermediate
+662,Coursera Project Network,Convolutions for Text Classification with Keras,GUIDED PROJECT,4.7,115,3900,Intermediate
+663,Coursera Project Network,Logistic Regression 101: US Household Income Classification,GUIDED PROJECT,,,,Beginner
+664,Coursera Project Network,Build Multilayer Perceptron Models with Keras,GUIDED PROJECT,4.5,93,3600,Intermediate
+665,Coursera Project Network,Selenium Grid - Running Selenium tests in parallel,GUIDED PROJECT,4.7,18,,Beginner
+666,Coursera Project Network,Building Similarity Based Recommendation System,GUIDED PROJECT,4.4,25,,Intermediate
+667,University of Illinois at Urbana-Champaign,Data Analytics in Accounting,COURSE,,,1600,Intermediate
+668,Coursera Project Network,Python Fundamentals Crash Course,GUIDED PROJECT,4.7,59,4300,Beginner
+669,Coursera Project Network,Serve Scikit-Learn Models for Deployment with BentoML,GUIDED PROJECT,,,,Intermediate
+670,Universidad Austral,Python Beginner�s Crash Course: Code in Hours,COURSE,4.1,92,10000,Beginner
+671,HSE University,Статистические методы анализа данных,COURSE,,,,Intermediate
+672,IBM,Advanced Blockchain Concepts and Use Cases,COURSE,4.2,88,2500,Advanced
+673,"University of California, Irvine","Predictive Modeling, Model Fitting, and Regression Analysis",COURSE,4.3,19,,Intermediate
+674,Codio,Java Basics: Selection and Iteration,COURSE,4.7,6,,Beginner
+675,University of California San Diego,Deploying Machine Learning Models,COURSE,3.5,46,8200,Mixed
+676,LearnQuest,Integrating Test-Driven Development into Your Workflow,COURSE,,,,Intermediate
+677,Coursera Project Network,Creating Database Tables with SQL,GUIDED PROJECT,4.6,282,6600,Intermediate
+678,Coursera Project Network,Build NLP pipelines using scikit-learn,GUIDED PROJECT,4.1,17,,Advanced
+679,Coursera Project Network,Deep Learning with PyTorch : Convolutional Neural Network,GUIDED PROJECT,,,,Intermediate
+680,Coursera Project Network,Hierarchical Clustering: Customer Segmentation,GUIDED PROJECT,4.2,90,3100,Intermediate
+681,Coursera Project Network,TensorFlow for CNNs: Transfer Learning,GUIDED PROJECT,4.5,8,,Intermediate
+682,Coursera Project Network,The Pytorch basics you need to start your ML projects,GUIDED PROJECT,,,,Intermediate
+683,Coursera Project Network,Predicting Salaries with Decision Trees,GUIDED PROJECT,,,,Intermediate
+684,Coursera Project Network,Image Data Augmentation with Keras,GUIDED PROJECT,4.6,435,9000,Intermediate
+685,Coursera Project Network,Starting GUI Programming with JavaFX,GUIDED PROJECT,4.6,37,,Intermediate
+686,Coursera Project Network,Analizando sentimientos y entidades en textos con Azure,GUIDED PROJECT,4.8,6,,Beginner
+687,Coursera Project Network,Apply advanced testing for your Django web application,GUIDED PROJECT,,,,Advanced
+688,Coursera Project Network,Image Noise Reduction with Auto-encoders using TensorFlow,GUIDED PROJECT,4.7,104,4500,Intermediate
+689,Coursera Project Network,TensorFlow for CNNs: Object Recognition,GUIDED PROJECT,4.4,25,,Intermediate
+690,Coursera Project Network,"Machine Learning:  Predict Numbers from Handwritten Digits using a Neural Network, Keras, and R",GUIDED PROJECT,4.4,66,4600,Intermediate
+691,Coursera Project Network,TensorFlow for CNNs: Multi-Class Classification,GUIDED PROJECT,4.4,17,,Intermediate
+692,Coursera Project Network,Hyperparameter Tuning with Neural Network Intelligence,GUIDED PROJECT,4.7,30,2700,Intermediate
+693,Coursera Project Network,Evaluate Machine Learning Models with Yellowbrick,GUIDED PROJECT,4.8,48,2800,Intermediate
+694,Tsinghua University,Data Structures and Algorithms (IV),COURSE,2.7,7,2500,Intermediate
+695,Coursera Project Network,Python Crash Course: Hands-On Coding,GUIDED PROJECT,4.3,301,7400,Beginner
+696,IBM,Ciencia de Datos Aplicada - Curso Capstone,COURSE,,,,Intermediate
+697,Coursera Project Network,Object Localization with TensorFlow,GUIDED PROJECT,4.3,26,,Intermediate
+698,Coursera Project Network,Fine Tune BERT for Text Classification with TensorFlow,GUIDED PROJECT,4.6,61,3000,Intermediate
+699,Wesleyan University,Data Management and Visualization,COURSE,4.4,876,73000,Mixed
+700,Coursera Project Network,Real-Time Prediction Pipelines,GUIDED PROJECT,4.6,59,2200,Intermediate
+701,Coursera Project Network,Transfer Learning for NLP with TensorFlow Hub,GUIDED PROJECT,4.8,82,2600,Intermediate
+702,Coursera Project Network,ML-Powered Automation with Python,GUIDED PROJECT,4.6,198,4900,Intermediate
+703,Coursera Community Project Network,Brain Tumor Classification Using Keras,GUIDED PROJECT,4.7,19,,Intermediate
+704,Coursera Project Network,Tweet Emotion Recognition with TensorFlow,GUIDED PROJECT,4.8,34,2200,Intermediate
+705,Coursera Community Project Network,Regression using Scikit-Learn,GUIDED PROJECT,,,,Intermediate
+706,University of Washington,Data Manipulation at Scale: Systems and Algorithms,COURSE,4.3,748,57000,Mixed
+707,Coursera Project Network,Full-Stack Web Development,GUIDED PROJECT,4.7,50,3600,Advanced
+708,Coursera Project Network,Creating Multi Task Models With Keras,GUIDED PROJECT,4.6,14,,Intermediate
+709,Coursera Project Network,Optimize TensorFlow Models For Deployment with TensorRT,GUIDED PROJECT,4.6,33,1800,Intermediate
+710,Coursera Community Project Network,Exploratory Time Series Analysis,GUIDED PROJECT,4.8,10,,Beginner
+711,Coursera Project Network,Automate & Analyze: Python for Business,GUIDED PROJECT,4.5,26,2500,Intermediate
+712,DeepLearning.AI,Python for Accounting and Analytics,COURSE,4.6,9,3200,Intermediate
+713,"University of California, Irvine",Natural Language Processing and Capstone Assignment,COURSE,4.4,13,,Intermediate
+714,Coursera Project Network,Hyperparameter Tuning with Keras Tuner,GUIDED PROJECT,4.3,8,,Intermediate
+715,Universitat Autònoma de Barcelona,Modern Web Development,COURSE,4.3,74,14000,Mixed
+716,"University of California, Irvine","Cluster Analysis, Association Mining, and Model Evaluation",COURSE,4.6,21,,Intermediate
+717,Pontificia Universidad Católica de Chile,Python Coding Crash Course: Start Today,COURSE,4.5,24,6800,Beginner
+718,IBM,Blockchain Security and Cryptography,COURSE,4.2,42,1800,Advanced
+719,DeepLearning.AI,Réseaux neuronaux et Deep Learning,COURSE,,,,Intermediate
+720,Universidad Austral,Introducción al procesamiento de lenguaje natural,COURSE,,,,Beginner
+721,University of Illinois at Urbana-Champaign,Cloud Computing Project,COURSE,4.1,32,5400,Mixed
+722,Coursera Project Network,Web Development Bootcamp: Code to Launch,GUIDED PROJECT,4.4,95,3800,Beginner
+723,LearnQuest,Writing Java Application Code,COURSE,4.3,12,,Intermediate
+724,Google Cloud,Problem Solving in Business with Python,COURSE,4.4,115,3500,Intermediate
+725,Coursera Project Network,Cryptocurrency and Blockchain Essentials,GUIDED PROJECT,4.6,151,6500,Intermediate
+726,Wesleyan University,Data Analysis and Interpretation for Business,COURSE,4.7,38,3300,Mixed
+727,Johns Hopkins University,Data Literacy Capstone – Evaluating Research,COURSE,,,,Intermediate
+728,Coursera Project Network,Python in Business,GUIDED PROJECT,4.4,79,4700,Intermediate
+729,Coursera Project Network,Blockchain for Business and Finance,GUIDED PROJECT,4.6,91,3600,Intermediate
+730,Coursera Project Network,TensorFlow for NLP: Text Embedding and Classification,GUIDED PROJECT,3.8,11,,Intermediate
+731,Coursera Project Network,TensorFlow for CNNs: Data Augmentation,GUIDED PROJECT,4.4,11,,Intermediate
+732,Coursera Project Network,Fashion Image Classification using CNNs in Pytorch,GUIDED PROJECT,,,,Intermediate
+733,Coursera Project Network,Recognizing Shapes in Images with OpenCV,GUIDED PROJECT,,,,Intermediate
+734,Coursera Project Network,Python for Cryptocurrency Trading and Analysis,GUIDED PROJECT,4.7,70,3500,Intermediate
+735,Coursera Project Network,Building Crypto Wallets and DApps with Python,GUIDED PROJECT,4.7,66,3200,Intermediate
+736,Coursera Project Network,Python Crash Course: Learn by Doing,GUIDED PROJECT,4.8,33,3100,Beginner
+737,Coursera Project Network,Python Crash Course: Coding Made Simple,GUIDED PROJECT,4.1,64,2500,Beginner
+738,Coursera Project Network,Malaria parasite detection using ensemble learning in Keras,GUIDED PROJECT,,,,Intermediate
+739,Coursera Project Network,Test your Django views and forms using Selenium,GUIDED PROJECT,,,,Intermediate
+740,Rice University,Python for Business Operations and Strategy,COURSE,4.8,107,2900,Intermediate
+741,Coursera Project Network,TensorFlow for AI: Neural Network Representation,GUIDED PROJECT,4.3,14,,Intermediate
+742,Coursera Project Network,Use Commands and Create a Remote Git Repository,GUIDED PROJECT,4.4,23,,Intermediate
+743,Coursera Project Network,TensorFlow for AI: Applying Image Convolution,GUIDED PROJECT,4.6,12,,Intermediate
+744,Coursera Project Network,Getting Started with Blazor WASM,GUIDED PROJECT,4.6,14,,Intermediate
+745,IBM,Trabalho de conclusão de Ciência de Dados Aplicada,COURSE,,,,Intermediate
+746,Coursera Project Network,Visualización de datos con Seaborn,GUIDED PROJECT,,,,Beginner
+747,IBM,مؤثرات عرض البيانات باستخدام لغة بايثون,COURSE,,,,Intermediate
+748,Coursera Project Network,Python for Financial Benchmarking and KPI Tracking,GUIDED PROJECT,4.8,52,2600,Intermediate
+749,Google Cloud,Intro to TensorFlow 日本語版,COURSE,3.8,10,,Intermediate
+750,Coursera Project Network,Developing a Connect Four Game using Java OOP,GUIDED PROJECT,,,,Intermediate
+751,Coursera Project Network,Predict Career Longevity for NBA Rookies using Scikit-learn,GUIDED PROJECT,,,,Beginner
+752,IBM,Заключительный курс по теме «Прикладная наука о данных»,COURSE,,,,Intermediate
+753,Coursera Project Network,Build a simple API-driven e-commerce application,GUIDED PROJECT,,,,Intermediate
+754,Coursera Project Network,Preparing Data for Machine Learning Models,GUIDED PROJECT,,,,Intermediate
+755,University of Washington,Web Developer Career Pathway,COURSE,4.1,22,2200,Mixed
+756,Coursera Project Network,JavaScript Numbers: Properties and Methods,GUIDED PROJECT,4.9,15,,Beginner
+757,IBM,كابستون علوم البيانات التطبيقية,COURSE,,,,Intermediate
+758,Coursera Project Network,Hospedando Website Estático (HTML/CSS/Javascript) no AWS S3,GUIDED PROJECT,,,,Beginner
+759,Coursera Project Network,نهج هندسي لتحليل الجينوم: الانحراف ومنحنى زد,GUIDED PROJECT,,,,Intermediate
+760,Coursera Project Network,Introdução a Machine Learning em uma Competição do Kaggle,GUIDED PROJECT,,,,Beginner
+761,Coursera Project Network,How to Make Image Editing Selections in GIMP,GUIDED PROJECT,4.8,24,,Intermediate
+762,Coursera Project Network,Predict Gas Guzzlers using a Neural Net Model on the MPG Data Set,GUIDED PROJECT,4.7,29,,Intermediate
+763,Google Cloud,Reliable Cloud Infrastructure: Design and Process en Français,COURSE,4.2,6,,Intermediate
+764,Coursera Project Network,Hierarchical Clustering using Euclidean Distance,GUIDED PROJECT,,,,Intermediate
+765,University of Colorado Boulder,"Dynamic Programming, Greedy Algorithms",COURSE,,,,Advanced
+766,Coursera Project Network,و تحميل البيانات و إخراجهاPandas شرح أساسيات استخدام,GUIDED PROJECT,,,,Beginner
+767,Microsoft,Process Data with Microsoft Azure Synapse Link for Cosmo DB,GUIDED PROJECT,,,,Intermediate
+768,Wesleyan University,Mastering Frontend Web Development,SPECIALIZATION,4.4,1273,130000,Beginner
+769,LearnQuest,Java as a Second Language,SPECIALIZATION,4.2,57,,Intermediate
+770,Universidad de los Andes,Principios de ingeniería de software automatizada y ágil Programa de Certificado MasterTrack®,MASTERTRACK™ CERTIFICATE,,,,
+771,Universidad de los Andes,Metodologías ágiles de desarrollo de software Programa de Certificado MasterTrack®,MASTERTRACK™ CERTIFICATE,,,,
+772,University of Chicago,Machine Learning for Analytics MasterTrack™ Certificate,MASTERTRACK™ CERTIFICATE,,,,
+773,IIT Roorkee,Data Science and Machine Learning Certificate,MASTERTRACK™ CERTIFICATE,,,,
+774,Tufts University,Data Analytics for Managers MasterTrack® Certificate,MASTERTRACK™ CERTIFICATE,,,,
+775,IIT Roorkee,Advanced Machine Learning and AI Certificate,MASTERTRACK™ CERTIFICATE,,,,
+776,Imperial College London,Master of Machine Learning and Data Science,DEGREE,,,,
+777,Universidad de los Andes,Maestría en Ingeniería de Software,DEGREE,,,,
+778,Universidad de los Andes,Maestría en Inteligencia Analítica de Datos,DEGREE,,,,
+779,University of Colorado Boulder,Master of Science in Data Science,DEGREE,,,,
+780,HSE University,Master of Data Science,DEGREE,,,,
+781,Google Cloud,Behavioral Finance and Data Analysis with Python,SPECIALIZATION,4.7,40988,510000,Intermediate
+782,École Polytechnique Fédérale de Lausanne,Mastering RESTful API Development,SPECIALIZATION,4.5,414,27000,Intermediate
+783,DeepLearning.AI,Building Scalable Web Applications,COURSE,4.7,1520,43000,Intermediate
+784,University of Toronto,Designing Secure APIs for Web Applications,COURSE,4.7,2191,100000,Advanced
+785,University of Illinois at Urbana-Champaign,Building Blockchain Applications,COURSE,4.7,442,34000,Intermediate
+786,DeepLearning.AI,Natural Language Processing with Attention Models,COURSE,4.4,581,28000,Intermediate
+787,Moscow Institute of Physics and Technology,Smart Contracts and Decentralized Apps,COURSE,4.7,510,31000,Intermediate
+788,University of Illinois at Urbana-Champaign,VLSI CAD Part II: Layout,COURSE,4.8,252,15000,Intermediate
+789,École Polytechnique Fédérale de Lausanne,Functional Programming Principles in Scala,COURSE,4.8,7768,190000,Intermediate
+790,"University of California, Irvine",Getting Started with Go,COURSE,4.6,1597,38000,Intermediate
+791,Codio,Introduction to Blockchain Technology,SPECIALIZATION,4.4,40,1700,Beginner
+792,IBM,Applied Data Science,COURSE,4.7,5361,77000,Intermediate
+793,Google,Blockchain Fundamentals,COURSE,4.7,1902,58000,Beginner
+794,University of Michigan,Sports Performance Analytics,SPECIALIZATION,,,,Intermediate
+795,HSE University,Python for Tax Analytics and Compliance,COURSE,4.7,2375,110000,Mixed
+796,University of Alberta,Prediction and Control with Function Approximation,COURSE,4.8,626,14000,Intermediate
+797,IBM,Scalable Machine Learning on Big Data using Apache Spark,COURSE,3.8,1193,18000,Intermediate
+798,University of Toronto,Full-Stack Web Development Bootcamp,COURSE,4.7,445,28000,Advanced
+799,École Polytechnique Fédérale de Lausanne,Digital Signal Processing 1: Basic Concepts and Algorithms,COURSE,4.6,337,24000,Intermediate
+800,Coursera Project Network,XG-Boost 101: Used Cars Price Prediction,GUIDED PROJECT,4.6,10,,Intermediate
+801,University of Illinois at Urbana-Champaign,Python Crash Course: Step Into Programming,COURSE,4.8,339,17000,Beginner
+802,University of Toronto,Advanced Classification Strategies,COURSE,4.8,371,25000,Advanced
+803,LearnQuest,Data Processing with Azure,COURSE,3.7,56,5800,Intermediate
+804,University of California San Diego,API Development with Python Flask,COURSE,4.5,835,38000,Beginner
+805,Technical University of Denmark (DTU),Introduction to advanced tomography,COURSE,4.8,28,2400,Mixed
+806,Moscow Institute of Physics and Technology,Python for Business Innovators,COURSE,4.8,137,9000,Intermediate
+807,IBM,Supervised Machine Learning: Classification,COURSE,4.9,67,3800,Intermediate
+808,IBM,API Integration and Management,COURSE,4.8,57,3500,Intermediate
+809,Coursera Project Network,Getting Started with Quantum Machine Learning,GUIDED PROJECT,,,,Advanced
+810,Databricks,Introduction to Bayesian Statistics,COURSE,,,,Beginner
+811,École Polytechnique Fédérale de Lausanne,Financial Statement Analysis with Python,COURSE,4.5,3035,55000,Intermediate
+812,Coursera Project Network,Python Crash Course: Fast and Practical,GUIDED PROJECT,4.5,226,9200,Beginner
+813,IBM,Базы данных и SQL в обработке и анализе данных,COURSE,,,,Beginner
+814,Coursera Project Network,Breast Cancer Prediction Using Machine Learning,GUIDED PROJECT,,,,Intermediate
+815,Google Cloud,Production Machine Learning Systems,COURSE,4.6,851,19000,Advanced
+816,École Polytechnique Fédérale de Lausanne,Digital Signal Processing 2: Filtering,COURSE,4.7,119,8200,Intermediate
+817,École Polytechnique Fédérale de Lausanne,Big Data Analysis with Scala and Spark,COURSE,4.7,2462,87000,Mixed
+818,Coursera Project Network,Object Detection with Amazon Sagemaker,GUIDED PROJECT,4.5,91,6700,Advanced
+819,Coursera Project Network,Predicting Financial Time Series with Tensorflow 2,GUIDED PROJECT,3.7,9,,Intermediate
+820,Databricks,Introduction to PyMC3 for Bayesian Modeling and Inference,COURSE,,,,Beginner
+821,Google Cloud,Securing and Integrating Components of your Application,COURSE,4.6,1229,17000,Intermediate
+822,Coursera Project Network,TensorFlow for CNNs: Image Segmentation,GUIDED PROJECT,4,21,,Intermediate
+823,Coursera Project Network,Image Super Resolution Using Autoencoders in Keras,GUIDED PROJECT,4.4,320,8300,Advanced
+824,University of Michigan,"Foundations of Sports Analytics: Data, Representation, and Models in Sports",COURSE,,,,Mixed
+825,Databricks,Bayesian Inference with MCMC,COURSE,,,,Beginner
+826,University at Buffalo,Python Blitz: Learn to Code Fast,COURSE,4.3,18,2100,Beginner
+827,HSE University,Основы машинного обучения,COURSE,4.5,11,,Intermediate
+828,University of Illinois at Urbana-Champaign,Python Fast Lane: Beginner�s Guide,COURSE,4.5,42,5200,Beginner
+829,Coursera Project Network,AWS Lambda and API Gateway Basics - Build Serverless website,GUIDED PROJECT,4.1,16,,Beginner
+830,Coursera Project Network,Building Recommendation System Using MXNET on AWS Sagemaker,GUIDED PROJECT,,,,Advanced
+831,IBM,Herramientas para la ciencia de datos,COURSE,4.3,15,,Beginner
+832,École Polytechnique Fédérale de Lausanne,Digital Signal Processing 3: Analog vs Digital,COURSE,4.8,54,6700,Intermediate
+833,Coursera Project Network,Hand Gesture Recognition using Tensorflow and Keras,GUIDED PROJECT,4.5,8,,Beginner
+834,Coursera Project Network,Audio Classification with TensorFlow,GUIDED PROJECT,,,,Intermediate
+835,Coursera Project Network,Advanced Feature Selection Techniques,GUIDED PROJECT,4.6,97,3500,Advanced
+836,HSE University,"Probability Theory, Statistics and Exploratory Data Analysis",COURSE,4.7,267,18000,Mixed
+837,IBM,Bancos de dados e SQL para Ciência de Dados,COURSE,,,,Beginner
+838,Google Cloud,"App Deployment, Debugging, and Performance",COURSE,4.6,1067,19000,Intermediate
+839,École Polytechnique Fédérale de Lausanne,Digital Signal Processing 4: Applications,COURSE,4.8,41,6100,Intermediate
+840,Google Cloud,Google Cloud Platform Big Data and Machine Learning Fundamentals 日本語版,COURSE,4.5,136,3400,Intermediate
+841,Infosec,"Execution, persistence, privilege escalation and evasion",COURSE,,,,Intermediate
+842,Google Cloud,Real-Time Financial Analytics with Python,COURSE,4.7,608,17000,Intermediate
+843,Google Cloud,Sequence Models for Time Series and Natural Language Processing,COURSE,4.4,455,14000,Advanced
+844,University of Colorado Boulder,M2M & IoT Interface Design & Protocols for Embedded Systems,COURSE,,,,Intermediate
+845,Coursera Project Network,Building COVID-19 Dashboard using Dash & Plotly,GUIDED PROJECT,,,,Beginner
+846,Northwestern University,"Modern Robotics, Course 2:  Robot Kinematics",COURSE,4.9,225,9600,Intermediate
+847,École Polytechnique Fédérale de Lausanne,Python for Startup Financial Modeling,COURSE,4.4,1793,54000,Intermediate
+848,Rice University,Python for Accounting and Analytics,COURSE,4.8,550,29000,Intermediate
+849,École Polytechnique Fédérale de Lausanne,Parallel programming (Scala 2 version),COURSE,,,,Intermediate
+850,IBM,Bases de datos y SQL para ciencia de datos,COURSE,4.2,10,,Beginner
+851,Moscow Institute of Physics and Technology,Dimensionality Reduction for Smart Modeling,COURSE,4.4,720,17000,Intermediate
+852,Moscow Institute of Physics and Technology,Machine Learning with Real Datasets,COURSE,4.7,1001,21000,Advanced
+853,Coursera Project Network,Python for Auditing and Fraud Detection,GUIDED PROJECT,4.5,235,7300,Advanced
+854,Coursera Project Network,Graduate Admission Prediction with Pyspark ML,GUIDED PROJECT,4.7,15,,Intermediate
+855,Coursera Project Network,Building Your First Chatbot Using Rasa Framework 2.0,GUIDED PROJECT,3.3,7,,Beginner
+856,University of Minnesota,Engineering Practices for Building Quality Software,COURSE,4.5,159,10000,Intermediate
+857,Rice University,Principles of Computing (Part 2),COURSE,4.8,334,17000,Mixed
+858,Northwestern University,"Modern Robotics, Course 3:  Robot Dynamics",COURSE,4.7,122,7000,Intermediate
+859,Coursera Project Network,Introduction to C++ Programming: Create a Tic-Tac-Toe Game,GUIDED PROJECT,,,,Beginner
+860,Coursera Project Network,Predict Employee Turnover with scikit-learn,GUIDED PROJECT,4.4,239,7500,Intermediate
+861,Coursera Project Network,Python Fast Track Beginner Bootcamp,GUIDED PROJECT,4.8,118,6100,Beginner
+862,Coursera Project Network,Custom Prediction Routine on Google AI Platform,GUIDED PROJECT,4.6,417,13000,Intermediate
+863,Sungkyunkwan University,The Fundamental of Data-Driven Investment,COURSE,,,,Beginner
+864,École Polytechnique Fédérale de Lausanne,Functional Programming Principles in Scala (Scala 2 version),COURSE,,,,Intermediate
+865,University of Washington,Machine Learning: Clustering & Retrieval,COURSE,4.6,2217,84000,Mixed
+866,Northwestern University,Predictive Analytics in Finance Using Python,COURSE,4.9,87,7300,Intermediate
+867,Coursera Project Network,TensorFlow for NLP: Semantic Similarity in Texts,GUIDED PROJECT,3.2,14,,Intermediate
+868,Coursera Project Network,Python Velocity Fast Coding Fundamentals,GUIDED PROJECT,4.2,14,,Beginner
+869,Coursera Project Network,Exploratory Data Analysis with Seaborn,GUIDED PROJECT,4.6,335,8400,Intermediate
+870,Coursera Project Network,Medical Image Classification using Tensorflow,GUIDED PROJECT,,,,Advanced
+871,Coursera Project Network,Build Space Invaders using Pygame,GUIDED PROJECT,,,,Intermediate
+872,Google Cloud,Python for Corporate Strategy and Data-Driven Decisions,COURSE,4.3,22,1600,Intermediate
+873,Coursera Project Network,Python for Business Finance,GUIDED PROJECT,4.5,50,2300,Intermediate
+874,Coursera Project Network,Use Jenkins to Automate Software Build and Test,GUIDED PROJECT,3.3,12,,Intermediate
+875,Alberta Machine Intelligence Institute,Machine Learning Algorithms: Supervised Learning Tip to Tail,COURSE,4.7,340,11000,Mixed
+876,Coursera Project Network,Diabetes Prediction With Pyspark MLLIB,GUIDED PROJECT,4.6,8,,Intermediate
+877,Universidad de los Andes,Python PowerStart Beginner Crash Course,COURSE,4.4,257,30000,Beginner
+878,Moscow Institute of Physics and Technology,Financial Modeling with Python,COURSE,4.7,1426,20000,Intermediate
+879,Moscow Institute of Physics and Technology,Advanced Machine Learning Algorithms and Theory,COURSE,4.7,319,3600,Advanced
+880,IBM,Advanced Python for Financial Applications,COURSE,4.5,39,2100,Advanced
+881,University of California San Diego,Design Thinking and Predictive Analytics for Data Products,COURSE,4.5,61,7400,Intermediate
+882,Coursera Project Network,Build a Classification Model using PyCaret,GUIDED PROJECT,,,,Beginner
+883,Coursera Project Network,Covid-19 Death Medical Analysis & Visualization using Plotly,GUIDED PROJECT,,,,Beginner
+884,Coursera Project Network,Introduction to C++ Programming: Build a Calculator,GUIDED PROJECT,4.2,22,,Beginner
+885,Coursera Project Network,Data-Driven Decisions with Python,GUIDED PROJECT,4.8,52,4400,Beginner
+886,Coursera Project Network,Interpretable Machine Learning Applications: Part 4,GUIDED PROJECT,,,,Intermediate
+887,Coursera Project Network,Create Custom Layers in Keras,GUIDED PROJECT,4.6,98,3700,Intermediate
+888,Coursera Project Network,Neural Style Transfer with TensorFlow,GUIDED PROJECT,4.6,110,4100,Intermediate
+889,Coursera Project Network,Creando un modelo de lenguaje natural con Spacy,GUIDED PROJECT,,,,Intermediate
+890,University of Michigan,Prediction Models with Sports Data,COURSE,,,,Mixed
+891,Universidad Nacional Autónoma de México,Python for Economic Data Analysis,COURSE,4.1,84,5900,Intermediate
+892,Universidad Nacional Autónoma de México,Beginner Python Code Journey,COURSE,4.6,15,3500,Beginner
+893,Coursera Project Network,Your First Python Project,GUIDED PROJECT,4.6,397,16000,Beginner
+894,Universitat Pompeu Fabra of Barcelona,Audio Signal Processing for Music Applications,COURSE,4.8,263,44000,Intermediate
+895,DeepLearning.AI,Analyze Datasets and Train ML Models using AutoML,COURSE,,,,Advanced
+896,Wesleyan University,Data Analysis Tools,COURSE,4.5,395,42000,Mixed
+897,University of Minnesota,Building ML Apps with Streamlit,COURSE,4.1,170,6900,Intermediate
+898,Northwestern University,Python for Real Estate Investment Analytics,COURSE,4.7,62,5400,Intermediate
+899,Alberta Machine Intelligence Institute,Optimizing Machine Learning Performance,COURSE,4.6,36,5100,Mixed
+900,Coursera Community Project Network,Time series forecasting with Prophet,GUIDED PROJECT,4.2,10,,Intermediate
+901,Moscow Institute of Physics and Technology,1C:Enterprise Junior Developer Course,COURSE,,,,Beginner
+902,Alberta Machine Intelligence Institute,Data for Machine Learning,COURSE,4.4,83,6000,Intermediate
+903,Wesleyan University,Regression Modeling in Practice,COURSE,4.4,268,33000,Mixed
+904,Northwestern University,Python for Financial Reporting Automation,COURSE,4.9,39,4400,Intermediate
+905,IBM,"AI Workflow: Machine Learning, Visual Recognition and NLP",COURSE,4.5,60,2600,Advanced
+906,DeepLearning.AI,"Build, Train, and Deploy ML Pipelines using BERT",COURSE,,,,Advanced
+907,Google Cloud,Google Cloud Platform Big Data and Machine Learning Fundamentals em Português Brasileiro,COURSE,4.8,58,,Intermediate
+908,New York Institute of Finance,Introduction to Risk Management,COURSE,,,,Beginner
+909,University of Pennsylvania,Smart Business with Python,COURSE,4.6,103,,Mixed
+910,Coursera Project Network,Create a Superhero Name Generator with TensorFlow,GUIDED PROJECT,,,,Intermediate
+911,Alibaba Cloud Academy,Big Data Analysis Deep Dive,COURSE,,,,Intermediate
+912,IBM,Machine Learning Rapid Prototyping with IBM Watson Studio,COURSE,,,,Intermediate
+913,Universidad Nacional Autónoma de México,Creatividad computacional,COURSE,,,2300,Intermediate
+914,Coursera Project Network,Jet Fighters Game using Pygame,GUIDED PROJECT,,,,Beginner
+915,Coursera Project Network,Tracking Objects in Video with Particle Filters,GUIDED PROJECT,,,,Advanced
+916,Google Cloud,Serverless Data Analysis with Google BigQuery and Cloud Dataflow em Português Brasileiro,COURSE,4.7,18,,Intermediate
+917,Coursera Project Network,Intro to Programming With C#: Build A Word Guessing Game,GUIDED PROJECT,,,,Beginner
+918,École Polytechnique Fédérale de Lausanne,Functional Program Design in Scala (Scala 2 version),COURSE,,,,Intermediate
+919,Google Cloud,Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform em Português Brasileiro,COURSE,4.6,13,,Intermediate
+920,Coursera Project Network,Python for Real Estate Investment Analytics,GUIDED PROJECT,4.6,76,3000,Intermediate
+921,Coursera Project Network,Data Visualization for Business with Python,GUIDED PROJECT,4.8,97,3800,Intermediate
+922,Coursera Project Network,A Geometrical Approach to Genome Analysis: Skew & Z-Curve,GUIDED PROJECT,,,,Intermediate
+923,Google Cloud,Serverless Machine Learning with Tensorflow on Google Cloud Platform auf Deutsch,COURSE,,,,Intermediate
+924,Coursera Project Network,Program Automation of devices using Packet Tracer,GUIDED PROJECT,,,,Beginner
+925,Coursera Project Network,تعلم C عن طريق عمل function تقوم برسم شكل شجرة,GUIDED PROJECT,,,,Beginner
+926,Coursera Project Network,Build a Clustering Model using PyCaret,GUIDED PROJECT,,,,Beginner
+927,Coursera Project Network,Curso Completo de Deep Learning,GUIDED PROJECT,,,,Intermediate
+928,Google Cloud,Serverless Machine Learning with Tensorflow on Google Cloud Platform em Português Brasileiro,COURSE,4.4,13,,Intermediate
+929,Coursera Project Network,Fast Typer Game using Pygame,GUIDED PROJECT,,,,Beginner
+930,Coursera Project Network,Explorando lenguaje natural con NLTK,GUIDED PROJECT,,,,Beginner
+931,Coursera Project Network,تعلم C عن طريق عمل Array-based Stack,GUIDED PROJECT,,,,Beginner
+932,DeepLearning.AI,Optimize ML Models and Deploy Human-in-the-Loop Pipelines,COURSE,,,,Advanced
+933,Coursera Project Network,Visualization of UK accidents using Plotly Express,GUIDED PROJECT,,,,Intermediate
+934,Coursera Project Network,Redes neuronales convolucionales con Keras,GUIDED PROJECT,,,,Intermediate
+935,Coursera Project Network,تحليل المجموعات الهرمية باستخدام المسافات الإقليدية,GUIDED PROJECT,,,,Intermediate
+936,DeepLearning.AI,Practical Data Science,SPECIALIZATION,,,,Advanced
+937,Coursera Project Network,أساسيات تحليل البيانات باستخدام بايثون وباندا,GUIDED PROJECT,,,,Beginner
+938,Coursera Project Network,Getting Started with Tensorflow.js,GUIDED PROJECT,,,,Intermediate
+939,Coursera Project Network,تعلّم أساسيات البرمجة بلغة بايثون من خلال التطبيق العملي,GUIDED PROJECT,,,,Beginner
+940,IBM,تحليل البيانات باستخدام بايثون,COURSE,,,,Beginner
+941,IBM,التعلّم الآلي باستخدام لغة بايثون,COURSE,,,,Intermediate
+942,Coursera Project Network,تعرَف على هياكل البيانات في بايثون من خلال التطبيق العملي,GUIDED PROJECT,,,,Beginner
+943,University of London,Bachelor of Science in Computer Science,DEGREE,,,,
+944,University of Michigan,Master of Applied Data Science,DEGREE,,,,
+945,University of Pennsylvania,Master of Computer and Information Technology,DEGREE,,,,
+946,University of Illinois,Master of Business Administration (iMBA),DEGREE,,,,
+947,University of Illinois at Urbana-Champaign,Master of Science in Accounting,DEGREE,,,,
+948,Coursera Project Network,Tensorflow Neural Networks using Deep Q-Learning Techniques,GUIDED PROJECT,2.7,17,,Advanced
