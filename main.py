@@ -3,13 +3,12 @@ import numpy as np
 import pandas as pd
 from sklearn.metrics.pairwise import cosine_similarity
 from sentence_transformers import SentenceTransformer
-import joblib
 import google.generativeai as genai
-
 from fastapi import FastAPI, Request, Form
 from fastapi.responses import HTMLResponse
 from fastapi.templating import Jinja2Templates
 
+from model import rf_model, rf_scaler
 from utils import build_student_profile_text, gpa_to_scale
 
 app = FastAPI()
@@ -21,15 +20,15 @@ model_gen = genai.GenerativeModel("gemini-1.5-flash")
 
 # Load models and data
 model_embed = SentenceTransformer('all-mpnet-base-v2')
-model = joblib.load('rf_model.pkl')
-scaler = joblib.load('scaler.pkl')
+model = rf_model
+scaler = rf_scaler
 
 # Course descriptions and description embeddings
 course_embeddings = np.load("course_embeddings.npy")
 course_descriptions = pd.read_csv("course_descriptions.csv")
 
 # Number of recommended courses to show
-top_n = 10 
+top_n = 10
 
 grade_map = {
     1: 'Beginner',
