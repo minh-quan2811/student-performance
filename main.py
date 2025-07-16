@@ -7,14 +7,17 @@ import google.generativeai as genai
 from fastapi import FastAPI, Request, Form
 from fastapi.responses import HTMLResponse
 from fastapi.templating import Jinja2Templates
+from dotenv import load_dotenv
 
 from model import rf_model, rf_scaler
 from utils import build_student_profile_text, gpa_to_scale
 
 app = FastAPI()
 
+load_dotenv()
+
 # Google Gemini configuration
-GOOGLE_API_KEY = "your_api_genai"
+GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
 genai.configure(api_key=GOOGLE_API_KEY)
 model_gen = genai.GenerativeModel("gemini-1.5-flash")
 
