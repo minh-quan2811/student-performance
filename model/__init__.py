@@ -1,1 +1,0 @@
-from .models import rf_model, rf_scaler

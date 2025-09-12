@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+numpy
+pandas
+scikit-learn==1.6.1
+joblib
+sentence-transformers
+google-generativeai
+python-dotenv
+pydantic-settings
+hf_xet
