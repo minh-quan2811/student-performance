@@ -14,7 +14,7 @@ app.add_middleware(
 )
 
 # Routers
-app.include_router(predict.router, prefix="/api", tags=["predict"])
+app.include_router(predict.router, tags=["predict"])
 
 
 @app.get("/")
